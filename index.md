@@ -22,6 +22,7 @@ keywords: statistics, data analytics
 <img src="figures/random_graph.png" alt="Random Graph"/>
 -->
 
+<!--
 <img src="figures/random_graph.png" alt="Random Graph" width="256" height="256" align="left">
 <p>
 Welcome to my website! I am Yanjie He, a Data Scientist who is interested in computer science, statistics and economics.
@@ -38,6 +39,32 @@ I love travel. And I enjoy commnuicating with people from different cultures.
 <p>
 My dream is to utilize big data to create a better world for everyone.
 </p>
+-->
+
+<table class="wide">
+<tr>
+  <td class="left">
+    <img src="figures/random_graph.png" alt="Random Graph" width="256" height="256" align="left">
+  </td>
+  <td class="right">
+    <p>
+    Welcome to my website! I am Yanjie He, a Data Scientist who is interested in computer science, statistics and economics.
+    </p>
+    
+    <p>
+    Currently, I am studying at the Data Analytics program in the George Washington University.
+    </p>
+    
+    <p>
+    I love travel. And I enjoy commnuicating with people from different cultures.
+    </p>
+    
+    <p>
+    My dream is to utilize big data to create a better world for everyone.
+    </p>
+  </td>
+</tr>
+</table>
 
 <!--
 ### <a name="Portfolio"></a>Portfolio
@@ -79,7 +106,7 @@ My dream is to utilize big data to create a better world for everyone.
 </div>
 -->
 
-<div class="navbar navbar-default">
+<div class="navbar">
   <div class="navbar-inner">
       <ul class="nav">
           <li><a href="{{ BASE_PATH }}/assets/broman_cv.pdf">cv</a></li>
