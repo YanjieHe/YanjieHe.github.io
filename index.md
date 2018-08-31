@@ -44,9 +44,6 @@ My dream is to utilize big data to create a better world for everyone.
 <table class="wide">
 <tr>
   <td class="left">
-    <img src="figures/random_graph.png" alt="Random Graph" width="256" height="256" align="left">
-  </td>
-  <td class="right">
     <p align="left">
     Welcome to my website! I am Yanjie He, a Data Scientist who is interested in computer science, statistics and economics.
     </p>
@@ -62,6 +59,9 @@ My dream is to utilize big data to create a better world for everyone.
     <p align="left">
     My dream is to utilize big data to create a better world for everyone.
     </p>
+  </td>
+  <td class="right">
+    <img src="figures/random_graph.png" alt="Random Graph" width="256" height="256" align="right">
   </td>
 </tr>
 </table>
