@@ -106,12 +106,6 @@ My dream is to utilize big data to create a better world for everyone.
 </div>
 -->
 
-<br>
-<br>
-<br>
-<br>
-<br>
-
 <div class="navbar">
   <div class="navbar-inner">
       <ul class="nav">
