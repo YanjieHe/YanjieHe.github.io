@@ -47,19 +47,19 @@ My dream is to utilize big data to create a better world for everyone.
     <img src="figures/random_graph.png" alt="Random Graph" width="256" height="256" align="left">
   </td>
   <td class="right">
-    <p>
+    <p align="left">
     Welcome to my website! I am Yanjie He, a Data Scientist who is interested in computer science, statistics and economics.
     </p>
     
-    <p>
+    <p align="left">
     Currently, I am studying at the Data Analytics program in the George Washington University.
     </p>
     
-    <p>
+    <p align="left">
     I love travel. And I enjoy commnuicating with people from different cultures.
     </p>
     
-    <p>
+    <p align="left">
     My dream is to utilize big data to create a better world for everyone.
     </p>
   </td>
