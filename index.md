@@ -22,8 +22,10 @@ keywords: statistics, data analytics
 <img src="figures/random_graph.png" alt="Random Graph"/>
 -->
 
-<p>Welcome to my website! I am Yanjie He, a Data Scientist who is interested in computer science, statistics and economics.
-<img src="figures/random_graph.png" alt="Random Graph" width="256" height="256" align="left"> </p>
+<p>
+<img src="figures/random_graph.png" alt="Random Graph" width="256" height="256" align="left">
+Welcome to my website! I am Yanjie He, a Data Scientist who is interested in computer science, statistics and economics.
+</p>
 
 <!--
 ### <a name="Portfolio"></a>Portfolio
