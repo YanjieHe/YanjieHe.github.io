@@ -16,6 +16,8 @@ keywords: statistics, data analytics
   </div>
 </div>
 
+<img src="https://sourabhbajaj.com/images/contents/NN.png" alt="PCA example" title="PCA example"/>
+
 ### <a name="Portfolio"></a>Portfolio
 
 <table class="wide">
