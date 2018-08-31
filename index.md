@@ -5,6 +5,7 @@ description: Benjamin Harvey is an Adjunct Professor at The George Washington Un
 keywords: statistics, data analytics
 ---
 
+<!--
 <div class="navbar">
   <div class="navbar-inner">
       <ul class="nav">
@@ -15,6 +16,7 @@ keywords: statistics, data analytics
       </ul>
   </div>
 </div>
+-->
 
 <img src="https://sourabhbajaj.com/images/contents/NN.png" alt="PCA example" title="PCA example"/>
 
@@ -57,7 +59,7 @@ keywords: statistics, data analytics
 </div>
 
 
-<div class="navbar">
+<div class="navbar navbar-default">
   <div class="navbar-inner">
       <ul class="nav">
           <li><a href="{{ BASE_PATH }}/assets/broman_cv.pdf">cv</a></li>
