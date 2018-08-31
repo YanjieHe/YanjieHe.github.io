@@ -22,15 +22,21 @@ keywords: statistics, data analytics
 <img src="figures/random_graph.png" alt="Random Graph"/>
 -->
 
-<p>
 <img src="figures/random_graph.png" alt="Random Graph" width="256" height="256" align="left">
-Welcome to my website! I am Yanjie He, a Data Scientist who is interested in computer science, statistics and economics.<br>
+<p>
+Welcome to my website! I am Yanjie He, a Data Scientist who is interested in computer science, statistics and economics.
+</p>
 
-Currently, I am studying at the Data Analytics program in the George Washington University.<br>
+<p>
+Currently, I am studying at the Data Analytics program in the George Washington University.
+</p>
 
-I love travel. And I enjoy commnuicating with people from different cultures.<br>
+<p>
+I love travel. And I enjoy commnuicating with people from different cultures.
+</p>
 
-My dream is to utilize big data to create a better world for everyone.<br>
+<p>
+My dream is to utilize big data to create a better world for everyone.
 </p>
 
 <!--
