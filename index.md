@@ -24,13 +24,13 @@ keywords: statistics, data analytics
 
 <p>
 <img src="figures/random_graph.png" alt="Random Graph" width="256" height="256" align="left">
-Welcome to my website! I am Yanjie He, a Data Scientist who is interested in computer science, statistics and economics.
+Welcome to my website! I am Yanjie He, a Data Scientist who is interested in computer science, statistics and economics.<br>
 
-Currently, I am studying at the Data Analytics program in the George Washington University.
+Currently, I am studying at the Data Analytics program in the George Washington University.<br>
 
-I love travel. And I enjoy commnuicating with people from different cultures.
+I love travel. And I enjoy commnuicating with people from different cultures.<br>
 
-My dream is to utilize big data to create a better world for everyone.
+My dream is to utilize big data to create a better world for everyone.<br>
 </p>
 
 <!--
