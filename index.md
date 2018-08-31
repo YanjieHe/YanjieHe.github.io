@@ -23,8 +23,9 @@ keywords: statistics, data analytics
 -->
 
 <p>Welcome to my website! I am Yanjie He, a Data Scientist who is interested in computer science, statistics and economics.
-<img src="figures" alt="Random Graph" align="left"> </p>
+<img src="figures" alt="Random Graph" width="256" height="256" align="left"> </p>
 
+<!--
 ### <a name="Portfolio"></a>Portfolio
 
 <table class="wide">
@@ -54,6 +55,7 @@ keywords: statistics, data analytics
   </td>
 </tr>
 </table>
+-->
 
 <div class="navbar">
   <div class="navbar-inner">
