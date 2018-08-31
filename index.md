@@ -57,7 +57,6 @@ Welcome to my website! I am Yanjie He, a Data Scientist who is interested in com
   </td>
 </tr>
 </table>
--->
 
 <div class="navbar">
   <div class="navbar-inner">
@@ -66,7 +65,7 @@ Welcome to my website! I am Yanjie He, a Data Scientist who is interested in com
       </ul>
   </div>
 </div>
-
+-->
 
 <div class="navbar navbar-default">
   <div class="navbar-inner">
