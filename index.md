@@ -106,6 +106,10 @@ My dream is to utilize big data to create a better world for everyone.
 </div>
 -->
 
+<hr>
+cv|github|blog|LinkedIn
+
+<!--
 <div class="navbar">
   <div class="navbar-inner">
       <ul class="nav">
@@ -116,3 +120,4 @@ My dream is to utilize big data to create a better world for everyone.
       </ul>
   </div>
 </div>
+-->
