@@ -2819,6 +2819,7 @@ button.btn::-moz-focus-inner,input[type="submit"].btn::-moz-focus-inner{
  .navbar{
     overflow:visible;
     margin-bottom:20px;
+    margin-bottom:0px;
     *position:relative;
     *z-index:2;
 }
