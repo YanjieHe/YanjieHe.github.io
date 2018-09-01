@@ -7,23 +7,19 @@ keywords: statistics, data analytics
 
 <p align="left">
 Welcome to my website! I am Yanjie He, a Data Scientist who is interested in computer science, statistics and economics.
-</p>
-
-<p align="left">
+<br>
 Currently, I am studying at the Data Analytics program in the George Washington University.
-</p>
-
-<p align="left">
+<br>
 I love travel. And I enjoy commnuicating with people from different cultures.
-</p>
-
-<p align="left">
+<br>
 My dream is to utilize big data to create a better world for everyone.
+<br>
 </p>
-<img src="figures/random_graph.png" alt="Random Graph" width="256" height="256" align="center">
+<img src="figures/random_graph.png" alt="Random Graph" align="center">
 
+<hr>
 <div class="navbar">
-  <div class="navbar-inner">
+  <div class="navbar-text">
       <ul class="nav">
           <li><a href="{{ BASE_PATH }}/assets/broman_cv.pdf">cv</a></li>
           <li><a href="https://github.com/yanjiehe">github</a></li>
