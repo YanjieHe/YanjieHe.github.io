@@ -30,8 +30,8 @@ keywords: statistics, data analytics
 </tr>
 </table>
 
-<div class="navbar navbar-expand-lg">
-  <div class="navbar-inner">
+<div class="navbar">
+  <div class="navbar-text">
       <ul class="nav">
           <li><a href="{{ BASE_PATH }}/assets/broman_cv.pdf">cv</a></li>
           <li><a href="https://github.com/yanjiehe">github</a></li>
