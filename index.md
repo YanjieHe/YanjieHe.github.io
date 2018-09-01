@@ -30,31 +30,6 @@ keywords: statistics, data analytics
 </tr>
 </table>
 
-<head>
-<style>
-ul {
-    list-style-type: none;
-    margin: 0;
-    padding: 0;
-    overflow: hidden;
-    position: fixed;
-    bottom: 0;
-}
-
-li {
-    float: center;
-}
-
-li a {
-    display: block;
-    text-align: center;
-    padding: 14px 16px;
-    text-decoration: none;
-}
-
-</style>
-</head>
-
 <div class="navbar">
   <div class="navbar-inner">
       <ul class="nav">
