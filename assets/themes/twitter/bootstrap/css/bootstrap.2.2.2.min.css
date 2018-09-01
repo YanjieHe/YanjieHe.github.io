@@ -645,6 +645,7 @@ ul.inline >li,ol.inline >li{
     border:0;
     border-top:1px solid #eeeeee;
     border-bottom:1px solid #ffffff;
+    border-color:#939394;
 }
  abbr[title],abbr[data-original-title]{
     cursor:help;
