@@ -27,6 +27,8 @@
     <link href="{{ BASE_PATH }}{{ site.JB.atom_path }}" type="application/atom+xml" rel="alternate" title="Sitewide ATOM Feed">
     <link href="{{ BASE_PATH }}{{ site.JB.rss_path }}" type="application/rss+xml" rel="alternate" title="Sitewide RSS Feed">
 
+
+    <!-- topnav -->
     <meta name="viewport" content="width=device-width, initial-scale=1">
     <style>
     body {
@@ -63,24 +65,22 @@
 
   <body>
     <div class="topnav">
-        <div class="container-narrow">
-          <a class="brand" href="{{ HOME_PATH }}">{{ site.title }}</a>
-          <ul class="nav">
-              <li><a href="{{ HOME_PATH }}">Home</a></li>
-              <li><a href="{{ BASE_PATH }}/assignments.html">Projects</a></li>
-              <li><a href="{{ BASE_PATH }}/presentations.html">Blog</a></li>
-              <li><a href="{{ BASE_PATH }}/pages/about.html">About</a></li>
-              <!--
-              <li><a href="{{ BASE_PATH }}/pages/about.html">about</a></li>
-              <li><a href="{{ BASE_PATH }}/pages/assignments.html">assignments</a></li>
-              <li><a href="{{ BASE_PATH }}/pages/pubs.html">publications</a></li>
-              <li><a href="{{ BASE_PATH }}/pages/presentations.html">presentations</a></li>
-              <li><a href="{{ BASE_PATH }}/pages/courses.html">courses</a></li>
-              <li><a href="{{ BASE_PATH }}/pages/software.html">toolkit</a></li>
-              <li><a href="{{ BASE_PATH }}/pages/resources.html">resources</a></li>
-	      -->
-          </ul>
-      </div>
+      <a class="brand" href="{{ HOME_PATH }}" font-size: 40px>{{ site.title }}</a>
+      <ul class="nav">
+          <li><a href="{{ HOME_PATH }}">Home</a></li>
+          <li><a href="{{ BASE_PATH }}/assignments.html">Projects</a></li>
+          <li><a href="{{ BASE_PATH }}/presentations.html">Blog</a></li>
+          <li><a href="{{ BASE_PATH }}/pages/about.html">About</a></li>
+          <!--
+          <li><a href="{{ BASE_PATH }}/pages/about.html">about</a></li>
+          <li><a href="{{ BASE_PATH }}/pages/assignments.html">assignments</a></li>
+          <li><a href="{{ BASE_PATH }}/pages/pubs.html">publications</a></li>
+          <li><a href="{{ BASE_PATH }}/pages/presentations.html">presentations</a></li>
+          <li><a href="{{ BASE_PATH }}/pages/courses.html">courses</a></li>
+          <li><a href="{{ BASE_PATH }}/pages/software.html">toolkit</a></li>
+          <li><a href="{{ BASE_PATH }}/pages/resources.html">resources</a></li>
+          -->
+      </ul>
     </div>
 
     <div class="container-narrow">
