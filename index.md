@@ -14,9 +14,19 @@ I am Yanjie He, a Data Scientist who is interested in computer science, statisti
 </p>
 
 <p align="left">
- I love travel. And I enjoy commnuicating with people from different cultures.
+I love travel. And I enjoy commnuicating with people from different cultures.
 My dream is to utilize big data to create a better world for everyone.
 </p>
+
+<p align="left">
+You may find me in these places:
+<ul>
+  <li><a href="https://github.com/yanjiehe">GitHub</a></li>
+  <li><a href="https://www.kaggle.com/yanjiehe">Kaggle</a></li>
+  <li><a href="https://www.linkedin.com/in/yanjie-he-1305a815a/">LinkedIn</a></li>
+</ul>
+
+This is my <a href="{{ BASE_PATH }}/assets/broman_cv.pdf">resume</a>.
 
 <!--
 <img src="figures/random_graph.png" alt="Random Graph" align="center">
@@ -24,6 +34,7 @@ My dream is to utilize big data to create a better world for everyone.
 
 <hr>
 
+<!--
 <div class="navbar navbar-default navbar-center">
   <ul class="nav">
     <li><a href="{{ BASE_PATH }}/assets/broman_cv.pdf">cv</a></li>
@@ -32,12 +43,17 @@ My dream is to utilize big data to create a better world for everyone.
     <li><a href="https://www.linkedin.com/in/yanjie-he-1305a815a/">LinkedIn</a></li>
   </ul>
 </div>
+-->
 
+<!--
+<center>
+  <span><a href="{{ BASE_PATH }}/assets/broman_cv.pdf">cv</a></span>
+  <span><a href="https://github.com/yanjiehe">github</a></span>
+  <span><a href="http://kbroman.org/blog">blog</a></span>
+  <span><a href="https://www.linkedin.com/in/yanjie-he-1305a815a/">LinkedIn</a></span>
+<center>
+-->
 
-<span><a href="{{ BASE_PATH }}/assets/broman_cv.pdf">cv</a></span>
-<span><a href="https://github.com/yanjiehe">github</a></span>
-<span><a href="http://kbroman.org/blog">blog</a></span>
-<span><a href="https://www.linkedin.com/in/yanjie-he-1305a815a/">LinkedIn</a></span>
 <br>
 
 Copyright @ 2018 Yanjie He
