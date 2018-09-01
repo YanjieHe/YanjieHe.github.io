@@ -1,11 +1,11 @@
 ---
 layout: page
 title: about
-description: Benjamin Harvey is...
+description: Yanjie He is...
 ---
 
 #### <a name="currentposition"></a>current position
-{Insert text here}
+Graduate student in the Data Analytics program in the George Washington University
 
 
 #### <a name="previousposition"></a>previous positions
@@ -24,6 +24,3 @@ description: Benjamin Harvey is...
 [curriculum vitae ![CV as pdf](icons16/pdf-icon.png)]({{ BASE_PATH }}/assets/bsharvey_cv.pdf)
 
 ---
-
-
-
