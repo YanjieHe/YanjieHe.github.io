@@ -24,7 +24,7 @@ My dream is to utilize big data to create a better world for everyone.
 
 <hr>
 
-<div class="navbar navbar-default" align="center">
+<div class="navbar navbar-default navbar-center">
   <ul class="nav">
     <li><a href="{{ BASE_PATH }}/assets/broman_cv.pdf">cv</a></li>
     <li><a href="https://github.com/yanjiehe">github</a></li>
