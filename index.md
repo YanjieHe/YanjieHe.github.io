@@ -22,6 +22,7 @@ My dream is to utilize big data to create a better world for everyone.
 
 <hr>
 Copyright @ 2018 Yanjie He
+
 <!--
 <div class="navbar">
   <div class="navbar-text">
