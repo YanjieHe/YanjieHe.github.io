@@ -26,7 +26,7 @@ You may find me in these places:
   <li><a href="https://www.linkedin.com/in/yanjie-he-1305a815a/">LinkedIn</a></li>
 </ul>
 
-This is my <a href="{{ BASE_PATH }}/assets/broman_cv.pdf">resume</a>.
+This is my <a href="{{ BASE_PATH }}/assets/resume.pdf">resume</a>.
 
 <!--
 <img src="figures/random_graph.png" alt="Random Graph" align="center">
