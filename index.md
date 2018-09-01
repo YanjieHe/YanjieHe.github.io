@@ -23,17 +23,16 @@ My dream is to utilize big data to create a better world for everyone.
 -->
 
 <hr>
-Copyright @ 2018 Yanjie He
 
-<!--
-<div class="navbar">
-  <div class="navbar-text">
-      <ul class="nav">
-          <li><a href="{{ BASE_PATH }}/assets/broman_cv.pdf">cv</a></li>
-          <li><a href="https://github.com/yanjiehe">github</a></li>
-          <li><a href="http://kbroman.org/blog">blog</a></li>
-          <li><a href="https://www.linkedin.com/in/yanjie-he-1305a815a/">LinkedIn</a></li>
-      </ul>
-  </div>
+<div class="navbar navbar-default" align="center">
+  <ul class="nav">
+    <li><a href="{{ BASE_PATH }}/assets/broman_cv.pdf">cv</a></li>
+    <li><a href="https://github.com/yanjiehe">github</a></li>
+    <li><a href="http://kbroman.org/blog">blog</a></li>
+    <li><a href="https://www.linkedin.com/in/yanjie-he-1305a815a/">LinkedIn</a></li>
+  </ul>
 </div>
--->
+
+<br>
+
+Copyright @ 2018 Yanjie He
