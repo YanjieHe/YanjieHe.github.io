@@ -18,7 +18,9 @@ I am Yanjie He, a Data Scientist who is interested in computer science, statisti
 My dream is to utilize big data to create a better world for everyone.
 </p>
 
+<!--
 <img src="figures/random_graph.png" alt="Random Graph" align="center">
+-->
 
 <hr>
 Copyright @ 2018 Yanjie He
