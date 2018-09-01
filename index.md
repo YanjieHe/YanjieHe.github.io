@@ -33,6 +33,11 @@ My dream is to utilize big data to create a better world for everyone.
   </ul>
 </div>
 
+
+<span><a href="{{ BASE_PATH }}/assets/broman_cv.pdf">cv</a></span>
+<span><a href="https://github.com/yanjiehe">github</a></span>
+<span><a href="http://kbroman.org/blog">blog</a></span>
+<span><a href="https://www.linkedin.com/in/yanjie-he-1305a815a/">LinkedIn</a></span>
 <br>
 
 Copyright @ 2018 Yanjie He
