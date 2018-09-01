@@ -47,7 +47,6 @@ li {
 
 li a {
     display: block;
-    color: white;
     text-align: center;
     padding: 14px 16px;
     text-decoration: none;
@@ -56,16 +55,8 @@ li a {
 </style>
 </head>
 
-<ul class="nav">
-  <li><a href="{{ BASE_PATH }}/assets/broman_cv.pdf">cv</a></li>
-  <li><a href="https://github.com/yanjiehe">github</a></li>
-  <li><a href="http://kbroman.org/blog">blog</a></li>
-  <li><a href="https://www.linkedin.com/in/yanjie-he-1305a815a/">LinkedIn</a></li>
-</ul>
-
-<!--
 <div class="navbar">
-  <div class="navbar-text">
+  <div class="navbar-inner">
       <ul class="nav">
           <li><a href="{{ BASE_PATH }}/assets/broman_cv.pdf">cv</a></li>
           <li><a href="https://github.com/yanjiehe">github</a></li>
@@ -74,4 +65,3 @@ li a {
       </ul>
   </div>
 </div>
--->
