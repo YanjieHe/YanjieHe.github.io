@@ -37,11 +37,12 @@ ul {
     margin: 0;
     padding: 0;
     overflow: hidden;
-    background-color: #333;
+    position: fixed;
+    bottom: 0;
 }
 
 li {
-    float: left;
+    float: center;
 }
 
 li a {
@@ -52,9 +53,6 @@ li a {
     text-decoration: none;
 }
 
-li a:hover {
-    background-color: #111;
-}
 </style>
 </head>
 
