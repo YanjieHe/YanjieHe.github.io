@@ -6,18 +6,23 @@ keywords: statistics, data analytics
 ---
 
 <p align="left">
-Welcome to my website! I am Yanjie He, a Data Scientist who is interested in computer science, statistics and economics.
-<br>
-Currently, I am studying at the Data Analytics program in the George Washington University.
-<br>
-I love travel. And I enjoy commnuicating with people from different cultures.
-<br>
-My dream is to utilize big data to create a better world for everyone.
-<br>
+Welcome to my website!
 </p>
+
+<p align="left">
+I am Yanjie He, a Data Scientist who is interested in computer science, statistics and economics.  Currently, I am studying at the Data Analytics program in the George Washington University.
+</p>
+
+<p align="left">
+ I love travel. And I enjoy commnuicating with people from different cultures.
+My dream is to utilize big data to create a better world for everyone.
+</p>
+
 <img src="figures/random_graph.png" alt="Random Graph" align="center">
 
 <hr>
+Copyright @ 2018 Yanjie He
+<!--
 <div class="navbar">
   <div class="navbar-text">
       <ul class="nav">
@@ -28,3 +33,4 @@ My dream is to utilize big data to create a better world for everyone.
       </ul>
   </div>
 </div>
+-->
