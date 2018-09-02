@@ -1,8 +1,8 @@
 ---
 layout: frontpage
 title: Yanjie He
-description: Benjamin Harvey is an Adjunct Professor at The George Washington University. He teaches a Data Analytis Introduction and Practicum course.
-keywords: statistics, data analytics
+description: I am a graduate student at The George Washington University. I study the Data Analytics major in the School of Engineering and Applied Science.
+keywords: Computer Science, Statistics, Data Analytics, Engineering
 ---
 
 <p align="left">
