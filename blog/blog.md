@@ -15,4 +15,3 @@ title: Blog
   </div>
   {% endfor %}
 </div><!-- .hfeed -->
-
