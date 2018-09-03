@@ -1,7 +1,6 @@
 ---
-title: Blog
-section: blog
 layout: blog
+title: Blog
 ---
 
 <div class="hfeed">
