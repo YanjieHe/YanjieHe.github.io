@@ -1,6 +1,5 @@
 ---
 layout: post
-title: Blog
 ---
 
 <div class="hfeed">
