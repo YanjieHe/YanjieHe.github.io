@@ -1,15 +1,6 @@
-{% include top.html %}
-
-<div style="margin-top:20px" />
-<hr />
-<div id="content-post">
-  {{ content }}
-</div><!-- #content -->
-
-<div id="sidebar-primary" class="sidebar">
-  <!-- {% include search.html %} -->
-  {% include categories-list.html %}
-  {% include important-links.html %}
-</div>
-
-{% include bottom.html %}
+---
+theme:
+  name : twitter
+---
+{% include JB/setup %}
+{% include themes/twitter/blog.html %}
