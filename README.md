@@ -1,6 +1,4 @@
-## Karl Broman&rsquo;s website
-
-See [kbroman.org](http://kbroman.org).
+## Yanji He&rsquo;s website
 
 ---
 
