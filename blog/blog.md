@@ -16,4 +16,3 @@ layout: blog
   </div>
   {% endfor %}
 </div><!-- .hfeed -->
-
