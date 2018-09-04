@@ -17,13 +17,11 @@ Graduate student in the Data Analytics program in the George Washington Universi
 
 
 #### <a name="education"></a>ecucation
-{Insert text here}
+Master of Science in Data Analytics, the Engineering and Science Department, The George Washington University
 
+Bachelor of Arts in Economics, Shanghai University of International Business and Economics
 
 #### <a name="cvandresume"></a>cv and resume
-<!--
-[curriculum vitae ![CV as pdf](icons16/pdf-icon.png)]({{ BASE_PATH }}/assets/bsharvey_cv.pdf)
--->
 [resume![CV as pdf](icons16/pdf-icon.png)]({{ BASE_PATH }}/assets/resume.pdf)
 
 ---
