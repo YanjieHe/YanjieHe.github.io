@@ -4,24 +4,25 @@ title: about
 description: Yanjie He is...
 ---
 
-#### <a name="currentposition"></a>current position
-Graduate student in the Data Analytics program in the George Washington University
+<p align="left">
+Welcome to my website!
+</p>
 
+<p align="left">
+I am Yanjie He, a Data Scientist who is interested in computer science, statistics and economics.  Currently, I am studying at the Data Analytics program in the George Washington University.
+</p>
 
-#### <a name="previousposition"></a>previous positions
-{Insert text here}
+<p align="left">
+I love travel. And I enjoy commnuicating with people from different cultures.
+My dream is to utilize big data to create a better world for everyone.
+</p>
 
+<p align="left">
+You may find me in these places:
+<ul>
+  <li><a href="https://github.com/yanjiehe">GitHub</a></li>
+  <li><a href="https://www.kaggle.com/yanjiehe">Kaggle</a></li>
+  <li><a href="https://www.linkedin.com/in/yanjie-he-1305a815a/">LinkedIn</a></li>
+</ul>
 
-#### <a name="researchbackground"></a>research background
-{Insert text here}
-
-
-#### <a name="education"></a>ecucation
-Master of Science in Data Analytics, the Engineering and Science Department, The George Washington University
-
-Bachelor of Arts in Economics, Shanghai University of International Business and Economics
-
-#### <a name="cvandresume"></a>cv and resume
-[resume![CV as pdf](icons16/pdf-icon.png)]({{ BASE_PATH }}/assets/resume.pdf)
-
----
+This is my <a href="{{ BASE_PATH }}/assets/resume.pdf">resume</a>.
