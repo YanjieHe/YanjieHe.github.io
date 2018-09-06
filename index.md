@@ -23,7 +23,7 @@ You may find me in these places:
 <ul>
   <li><a href="https://github.com/yanjiehe">GitHub</a></li>
   <li><a href="https://www.kaggle.com/yanjiehe">Kaggle</a></li>
-  <li><a href="https://www.linkedin.com/in/yanjie-he-1305a815a/">LinkedIn</a></li>
+  <li><a href="https://www.linkedin.com/in/yanjiehe/">LinkedIn</a></li>
 </ul>
 
 This is my <a href="{{ BASE_PATH }}/assets/resume.pdf">resume</a>.
