@@ -31,4 +31,4 @@ It seems that there exists some redundancy in the network. Therefore, I removed 
 
 ![Network Graph](https://raw.githubusercontent.com/YanjieHe/YanjieHe.github.io/master/_posts/2018-09-08-Text-Co-Occurrence-For-Hunger-Games-figures/network_graph_greater_than_three.png)
 
-This graph looks much better! The graph provides some interesting data regarding the relationship between main characters. Those who have closer relationship indeed have more frequent co-occurrence in the story. The people that do not show up together with others look more alienated in the network. That is consistent with our common sense. Why Peeta would spent his weekend with President Snow rather thant Katniss or Haymitch?
+This graph looks much better! The graph provides some interesting data regarding the relationship between main characters. Those who have closer relationship indeed have more frequent co-occurrence in the story. The people that do not show up together with others look more alienated in the network. That is consistent with our common sense. Why Peeta would spent his weekend with President Snow rather than Katniss or Haymitch?
