@@ -28,9 +28,40 @@ You may find me in these places:
 
 This is my <a href="{{ BASE_PATH }}/assets/resume.pdf">resume</a>.
 
+<br></br>
+Here are my projects. If you are interested in them, just click the figures.
+
+<table class="wide">
+<tr>
+  <td class="left">
+    <a href="https://yanjiehe.github.io/data%20analysis/2017/09/08/Text-Co-Occurrence-For-Hunger-Games">
+        <img src="https://raw.githubusercontent.com/YanjieHe/YanjieHe.github.io/master/_posts/2018-09-08-Text-Co-Occurrence-For-Hunger-Games-figures/network_graph_greater_than_three.png" alt="Text Co-occurrence Network" title="Text Co-occurrence Network" />
+    </a>
+  </td>
 <!--
-<img src="figures/random_graph.png" alt="Random Graph" align="center">
+  <td class="right">
+    <a href="https://bsharvey.github.io/pages/publpics/nba1.html">
+        <img src="pages/publpics/nba1.png" alt="Tian et
+        al. (2016) Fig 4" title="Tian et al. (2016) Fig 4" />
+    </a>
+  </td>
 -->
+</tr>
+<!--
+<tr>
+  <td class="left">
+    <a href="https://bsharvey.github.io">
+        <img src="pages/publpics/bioinformatics2.png" alt="Broman et al. (2013) Fig 7" title="Broman et al. (2013) Fig 7" />
+    </a>
+  </td>
+  <td class="right">
+    <a href="https://bsharvey.github.io">
+        <img src="pages/publpics/nba2.png" alt="Tian et al. (2015) Fig 4" title="Tian et al. (2015) Fig 4" />
+    </a>
+  </td>
+</tr>
+-->
+</table>
 
 <hr>
 
