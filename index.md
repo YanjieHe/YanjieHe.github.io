@@ -29,6 +29,7 @@ You may find me in these places:
 This is my <a href="{{ BASE_PATH }}/assets/resume.pdf">resume</a>.
 
 <br>
+<br>
 
 Here are my projects. If you are interested in them, just click the figures.
 
