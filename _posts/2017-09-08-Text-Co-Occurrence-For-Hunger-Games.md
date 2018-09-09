@@ -10,4 +10,4 @@ The data is the text of the *The Hunger Games I*, which is the first edition. My
 
 # Preprocessing
 I use the nltk package, which is a natural language toolkit, to split the text into token sequence. Then, I count the occurrence of main characters.
-![GitHub Logo](2018-09-08-Text-Co-Occurrence-For-Hunger-Games-figures/characters_occurrence.png)
+![Characters Occurrence](https://github.com/YanjieHe/YanjieHe.github.io/tree/master/_posts/2018-09-08-Text-Co-Occurrence-For-Hunger-Games-figures/characters_occurrence.png)
