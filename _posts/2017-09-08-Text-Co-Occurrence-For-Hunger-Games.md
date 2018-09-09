@@ -20,7 +20,7 @@ The fact that Peeta is the most frequently mentioned person can also be verified
 
 ![Word Cloud](https://raw.githubusercontent.com/YanjieHe/YanjieHe.github.io/master/_posts/2018-09-08-Text-Co-Occurrence-For-Hunger-Games-figures/word_cloud.png)
 
-# Text Co-occurrence network
+# Text Co-occurrence Network
 To describe the relationship between characters, I defined a text co-occurrence network. The definition is that if one name appears in the range of 100 words of another name, then the connections between the two names will increase one. For example, if we got Peeta in the token sequence, and Haymitch appears after 80 words, then the count of connection between Peeta and Haymitch will add one. Therefore, what we have here is a weighted undirected network.
 
 I use software Gephi to visualize the network. This software is awesome, by the way.
