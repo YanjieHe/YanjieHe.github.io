@@ -31,7 +31,7 @@ This is my <a href="{{ BASE_PATH }}/assets/resume.pdf">resume</a>.
 <br>
 <br>
 
-Here are some of my projects. If you are interested in them, just click the figures.
+Here are some of my projects. If you are interested in them, just click the figures. Thank you!
 
 <table class="wide">
 <tr>
