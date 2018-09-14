@@ -28,6 +28,8 @@ You may find me in these places:
 
 This is my <a href="{{ BASE_PATH }}/assets/resume.pdf">resume</a>.
 
+My assignments are listed as followings:
+
 <br>
 <br>
 
