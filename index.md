@@ -36,7 +36,7 @@ Here are some of my projects. If you are interested in them, just click the figu
 <table class="wide">
 <tr>
   <td class="left">
-    <a href="https://yanjiehe.github.io/data%20analysis/2017/09/08/Text-Co-Occurrence-For-Hunger-Games">
+    <a href="https://yanjiehe.github.io/data%20analysis/2018/09/08/Text-Co-Occurrence-For-Hunger-Games">
         <img src="https://github.com/YanjieHe/YanjieHe.github.io/blob/master/figures/Text-Co-Occurrence-For-Hunger-Games/network_graph_greater_than_three.png" alt="Text Co-occurrence Network" title="Text Co-occurrence Network" />
     </a>
   </td>
