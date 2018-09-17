@@ -33,7 +33,7 @@ This is my <a href="{{ BASE_PATH }}/assets/resume.pdf">resume</a>.
 
 Here are some of my projects. If you are interested in them, just click the figures.
 
-<table class="wide" cellspacing="10">
+<table class="wide">
 <tr>
   <td class="left">
     <a href="https://yanjiehe.github.io/data%20science/social%20network%20analysis/natural%20language%20processing/2018/09/08/Text-Co-Occurrence-For-Hunger-Games">
