@@ -14,24 +14,24 @@ The data is the text of the *The Hunger Games I*, which is the first edition. My
 # Preprocessing
 I use the nltk package, which is a natural language toolkit, to split the text into token sequence. Then, I count the occurrence of main characters.
 
-![Characters Occurrence](https://github.com/YanjieHe/YanjieHe.github.io/blob/master/figures/Text-Co-Occurrence-For-Hunger-Games/characters_occurrence.png)
+<img src = "/figures/Text-Co-Occurrence-For-Hunger-Games/characters_occurrence.png" alt = "Characters Occurrence">
 
 The bar chart illustrates that Peeta is most frequently mentioned person in the story. Haymitch, of course, as the mentor of Katniss and Peeta, is the second most mentioned person. Gale, who I thought would be the best candidate for the male lead when I read the first part of the book, actually plays a relatively minor part in the whole story.
 
 # Word Cloud
 The fact that Peeta is the most frequently mentioned person can also be verified through the graph of word cloud. It is obvious that the word "Peeta" has significant amount of occurrence in the book.
 
-![Word Cloud](https://github.com/YanjieHe/YanjieHe.github.io/blob/master/figures/Text-Co-Occurrence-For-Hunger-Games/word_cloud.png)
+<img src = "/figures/Text-Co-Occurrence-For-Hunger-Games/word_cloud.png" alt = "Word Cloud">
 
 # Text Co-occurrence Network
 To describe the relationship between characters, I defined a text co-occurrence network. The definition is that if one name appears in the range of 100 words of another name, then the connections between the two names will increase one. For example, if we got Peeta in the token sequence, and Haymitch appears after 80 words, then the count of connection between Peeta and Haymitch will add one. Therefore, what we have here is a weighted undirected network.
 
 I use software Gephi to visualize the network. This software is awesome, by the way.
 
-![Network Graph](https://github.com/YanjieHe/YanjieHe.github.io/blob/master/figures/Text-Co-Occurrence-For-Hunger-Games/network_graph.png)
+<img src = "/figures/Text-Co-Occurrence-For-Hunger-Games/network_graph.png" alt = "Network Graph">
 
 It seems that there exists some redundancy in the network. Therefore, I removed all the edges whose count of co-occurrence is less than or equals three.
 
-![Network Graph](https://github.com/YanjieHe/YanjieHe.github.io/blob/master/figures/Text-Co-Occurrence-For-Hunger-Games/network_graph_greater_than_three.png)
+<img src = "/figures/Text-Co-Occurrence-For-Hunger-Games/network_graph_greater_than_three.png" alt = "Network Graph">
 
 This graph looks much better! The graph provides some interesting data regarding the relationship between main characters. Those who have closer relationship indeed have more frequent co-occurrence in the story. The people that do not show up together with others look more alienated in the network. That is consistent with our common sense. Why Peeta would spent his weekend with President Snow rather than Katniss or Haymitch?
