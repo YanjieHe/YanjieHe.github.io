@@ -40,6 +40,9 @@ Here are some of my projects. If you are interested in them, just click the figu
         <img src="/figures/Text-Co-Occurrence-For-Hunger-Games/network_graph_greater_than_three.png" alt="Text Co-occurrence Network" title="Text Co-occurrence Network" style = "width:400px;height:300px;"/>
     </a>
   </td>
+  <tr>
+    <td colspan="2" class="divider"><hr/></td>
+  </tr>
   <td class="right">
     <a href="https://yanjiehe.github.io/data%20science/computer%20vision/2018/09/16/Landscape-Image-Clustering-Based-On-Color-Histogram">
 	<img src = "/figures/Landscape-Image-Clustering-Based-On-Color-Histogram/cluster_centers_hist.png" alt = "Cluster Centers Color Histogram" title = "Cluster Centers Color Histogram" style = "width:400px;height:300px;">
