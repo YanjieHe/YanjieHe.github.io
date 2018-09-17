@@ -18,6 +18,6 @@ Let's take this picture as an example.
 
 <img src = "/figures/Landscape-Image-Clustering-Based-On-Color-Histogram/sample.jpg" alt = "Sample">
 
-In this picture, the blue color seems to be dominant. If we plot the pixels in three-dimensional space, the distribution will look like this.
+In this picture, the blue, yellow, green and red color seems to be dominant. If we plot the pixels in three-dimensional space, the distribution will look like this.
 
 <img src = "/figures/Landscape-Image-Clustering-Based-On-Color-Histogram/sample_color_scatter.png" alt = "Sample Color Scatter">
