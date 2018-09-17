@@ -37,12 +37,12 @@ Here are some of my projects. If you are interested in them, just click the figu
 <tr>
   <td class="left">
     <a href="https://yanjiehe.github.io/data%20science/social%20network%20analysis/natural%20language%20processing/2018/09/08/Text-Co-Occurrence-For-Hunger-Games">
-        <img src="/figures/Text-Co-Occurrence-For-Hunger-Games/network_graph_greater_than_three.png" alt="Text Co-occurrence Network" title="Text Co-occurrence Network" style = "width:400px;height:300px;"/>
+        <img src="/figures/Text-Co-Occurrence-For-Hunger-Games/network_graph_greater_than_three.png" alt="Text Co-occurrence Network" title="Text Co-occurrence Network" style = "width:400px;height:300px;" border = "5"/>
     </a>
   </td>
   <td class="right">
     <a href="https://yanjiehe.github.io/data%20science/computer%20vision/2018/09/16/Landscape-Image-Clustering-Based-On-Color-Histogram">
-	<img src = "/figures/Landscape-Image-Clustering-Based-On-Color-Histogram/cluster_centers_hist.png" alt = "Cluster Centers Color Histogram" title = "Cluster Centers Color Histogram" style = "width:400px;height:300px;">
+	<img src = "/figures/Landscape-Image-Clustering-Based-On-Color-Histogram/cluster_centers_hist.png" alt = "Cluster Centers Color Histogram" title = "Cluster Centers Color Histogram" style = "width:400px;height:300px;" border = "5">
     </a>
   </td>
 </tr>
