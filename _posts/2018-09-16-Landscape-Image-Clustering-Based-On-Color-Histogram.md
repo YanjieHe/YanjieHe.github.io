@@ -10,7 +10,7 @@ My original thought about this project is to cluster the landscape images by the
 
 However, I ran up against difficulty in extracting the color features from the images. I was inspired by an assignment given by Professor Harvey. In the assignment, the material guide us to use the proporational of channel to classify whether a certain picture depicts summer or winnter. From this perspective, I searched some information online and was attracted by the concept of color histogram.
 
-Therefore, I designed my procedure as followings. Interestingly, I found a paper that has similar approach to mine.
+Therefore, I designed my procedure as followings. Interestingly, I found a paper that has similar approach to mine.<sup>[1]<sup>
 
 The first step is quite obvious, to read the image as a three dimensional matrix. The first and second dimensions are the count of rows and columns, and the third dimension is the color vector representing RGB, whose length is three. So it is basically a (N, M, 3) matrix.
 
@@ -39,3 +39,8 @@ The centers look separated from each other, which is indicating a good result to
 <img src = "/figures/Landscape-Image-Clustering-Based-On-Color-Histogram/400images_3.png" alt = "400images_3">
 
 They look great, aren't they? Each cluster appears to have different color theme.
+
+Reference:
+1. Clustering of Digital Images based on Color histogram
+2. Modeling How People Extract Color Themes from Images
+
