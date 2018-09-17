@@ -1,7 +1,10 @@
 ---
 layout: post
 title: Text Co-occurrence for Hunger Games
-category: Data Analysis
+category:
+- Data Science
+- Social Network Analysis
+- Natural Language Processing
 ---
 
 I am a fan of *The Hunger Games*, and I have read all the three books. The story of *The Hunger Games* is narrated by the young girl, Katniss Everdeen. There are many characters in the story, and what I am going to do is to describe the connections between the characters from a data science perspective.
