@@ -12,7 +12,7 @@ However, I ran up against difficulty in extracting the color features from the i
 
 Therefore, I designed my procedure as followings. Interestingly, I found a paper that has similar approach to mine.
 
-The first step is quite obvious, to read the image as a three dimensional matrix. The first and second dimensionals are the count of rows and columns, and the third dimensional is the color vector representing RGB, whose length is three. So it is basically a (N, M, 3) matrix.
+The first step is quite obvious, to read the image as a three dimensional matrix. The first and second dimensions are the count of rows and columns, and the third dimension is the color vector representing RGB, whose length is three. So it is basically a (N, M, 3) matrix.
 
 Let's take this picture as an example.
 
@@ -21,3 +21,21 @@ Let's take this picture as an example.
 In this picture, the blue, yellow, green and red color seems to be dominant. If we plot the pixels in three-dimensional space, the distribution will look like this.
 
 <img src = "/figures/Landscape-Image-Clustering-Based-On-Color-Histogram/sample_color_scatter.png" alt = "Sample Color Scatter">
+
+Secondly, I count the frequency of the occurrence of primary colors and use it as the features of the images. Sometimes it is better to view the image in other color spaces, like HSV or HSL, which is more friendly to human's eyes. In this project, I still choose the RGB color space for simplicity.
+
+Since there are 256 possible values for a one color dimension, I transformed the value by divide them with 26, so there will be 10 possible values for each color dimension, which will lessen the burden of calculation.
+
+The third step is to apply the K-means algorithm to cluster the images. Here I write a scala script and run it on the spark, which will make four clusters. The color histogram of the cluster centers are shown in the figure.
+
+<img src = "/figures/Landscape-Image-Clustering-Based-On-Color-Histogram/cluster_centers_hist.png" alt = "Cluster Centers Color Histogram">
+
+The centers look separated from each other, which is indicating a good result to me. Hopefully the different clusters can be distinguished by human eyes. I collected 400 images of each cluster and display them in the followings.
+
+
+<img src = "/figures/Landscape-Image-Clustering-Based-On-Color-Histogram/400images_0.png" alt = "400images_0">
+<img src = "/figures/Landscape-Image-Clustering-Based-On-Color-Histogram/400images_1.png" alt = "400images_1">
+<img src = "/figures/Landscape-Image-Clustering-Based-On-Color-Histogram/400images_2.png" alt = "400images_2">
+<img src = "/figures/Landscape-Image-Clustering-Based-On-Color-Histogram/400images_3.png" alt = "400images_3">
+
+They look great, aren't they? Each cluster appears to have different color theme.
