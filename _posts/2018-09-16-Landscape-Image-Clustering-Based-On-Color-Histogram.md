@@ -16,8 +16,8 @@ The first step is quite obvious, to read the image as a three dimensional matrix
 
 Let's take this picture as an example.
 
-![sample](https://github.com/YanjieHe/YanjieHe.github.io/blob/master/_posts/2018-09-16-Landscape-Image-Clustering-Based-On-Color-Histogram-figures/sample.jpg)
+![sample](https://github.com/YanjieHe/YanjieHe.github.io/blob/master/figures/Landscape-Image-Clustering-Based-On-Color-Histogram-figures/sample.jpg)
 
 In this picture, the blue color seems to be dominant. If we plot the pixels in three-dimensional space, the distribution will look like this.
 
-![sample color scatter](https://github.com/YanjieHe/YanjieHe.github.io/blob/master/_posts/2018-09-16-Landscape-Image-Clustering-Based-On-Color-Histogram-figures/sample_color_scatter.png)
+![sample color scatter](https://github.com/YanjieHe/YanjieHe.github.io/blob/master/figures/Landscape-Image-Clustering-Based-On-Color-Histogram-figures/sample_color_scatter.png)
