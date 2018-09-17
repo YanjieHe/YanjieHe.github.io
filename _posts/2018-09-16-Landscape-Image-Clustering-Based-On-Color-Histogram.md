@@ -41,6 +41,6 @@ The centers look separated from each other, which is indicating a good result to
 They look great, aren't they? Each cluster appears to have different color theme.
 
 Reference:
-1. Clustering of Digital Images based on Color histogram
-2. Modeling How People Extract Color Themes from Images
+1. Amro, Anas & Nassar, Ibrahim & Tamimi, Hashem. (2013). Clustering of Digital Images based on Color histogram.
+2. Sharon Lin and Pat Hanrahan. 2013. Modeling how people extract color themes from images. In Proceedings of the SIGCHI Conference on Human Factors in Computing Systems (CHI '13). ACM, New York, NY, USA, 3101-3110.
 
