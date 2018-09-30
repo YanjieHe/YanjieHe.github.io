@@ -28,7 +28,8 @@ You may find me in these places:
 
 This is my <a href="{{ BASE_PATH }}/assets/resume.pdf">resume</a>.
 
-For Professor Benjamin Harvey, this is my <a href="{{ BASE_PATH }}/Assignments/HW1.ipynb">assignment 1</a>.
+<br>
+For Professor Benjamin Harvey, this is my <a href="https://github.com/YanjieHe/YanjieHe.github.io/blob/master/Assignments/HW1.ipynb">assignment 1</a>.
 
 <br>
 <br>
