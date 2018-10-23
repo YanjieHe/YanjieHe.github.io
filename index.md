@@ -10,16 +10,16 @@ Welcome to my website!
 </p>
 
 <p align="left">
-I am Yanjie He, a Data Scientist who is interested in computer science, statistics and economics.  Currently, I am studying at the Data Analytics program in the George Washington University.
+I am Yanjie He, a Data Scientist who is interested in computer science, statistics, and economics.  Currently, I am studying at the Data Analytics program at the George Washington University.
 </p>
 
 <p align="left">
-I love travel. And I enjoy commnuicating with people from different cultures.
+I love traveling. And I enjoy communicating with people from different cultures.
 My dream is to utilize big data to create a better world for everyone.
 </p>
 
 <p align="left">
-You may find me in these places:
+You can find me in these places:
 <ul>
   <li><a href="https://github.com/yanjiehe">GitHub</a></li>
   <li><a href="https://www.kaggle.com/yanjiehe">Kaggle</a></li>
@@ -34,7 +34,7 @@ For Professor Benjamin Harvey, this is my <a href="https://github.com/YanjieHe/Y
 <br>
 <br>
 
-Here are some of my projects. If you are interested in them, just click the figures.
+Here are some of my projects. If you are interested in them, you may click the figures.
 
 <table class="wide">
 <tr>
@@ -66,26 +66,6 @@ Here are some of my projects. If you are interested in them, just click the figu
 </table>
 
 <hr>
-
-<!--
-<div class="navbar navbar-default navbar-center">
-  <ul class="nav">
-    <li><a href="{{ BASE_PATH }}/assets/broman_cv.pdf">cv</a></li>
-    <li><a href="https://github.com/yanjiehe">github</a></li>
-    <li><a href="http://kbroman.org/blog">blog</a></li>
-    <li><a href="https://www.linkedin.com/in/yanjie-he-1305a815a/">LinkedIn</a></li>
-  </ul>
-</div>
--->
-
-<!--
-<center>
-  <span><a href="{{ BASE_PATH }}/assets/broman_cv.pdf">cv</a></span>
-  <span><a href="https://github.com/yanjiehe">github</a></span>
-  <span><a href="http://kbroman.org/blog">blog</a></span>
-  <span><a href="https://www.linkedin.com/in/yanjie-he-1305a815a/">LinkedIn</a></span>
-<center>
--->
 
 <br>
 
