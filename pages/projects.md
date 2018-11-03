@@ -48,3 +48,12 @@ Reversi is a board game. It is much more complicated than the Tic Tac Toe. Due t
 The UI of my reversi program is in the following figure.
 
 <img src="/figures/reversi.png" alt="reversi.png" title="reversi">
+
+<h4> Landscape Image Clustering based on Color Histogram </h4>
+Completed a computer vision project.
+
+<ul>
+<li> Wrote a web crawler to download the landscape images from the Internet. </li>
+<li> Used C++ to extract color histogram as image features based on the OpenCV framework. </li>
+<li> Finally, run the K-Means model on Apache Spark using Scala to cluster the data. </li>
+</ul>
