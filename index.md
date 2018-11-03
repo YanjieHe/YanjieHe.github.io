@@ -56,28 +56,28 @@ Here are some of my projects. If you are interested in them, you may click the f
 
 <div class="gallery">
   <a target="_blank" href="https://yanjiehe.github.io/data%20science/social%20network%20analysis/natural%20language%20processing/2018/09/08/Text-Co-Occurrence-For-Hunger-Games">
-    <img src="/figures/Text-Co-Occurrence-For-Hunger-Games/network_graph_greater_than_three.png" alt="Cinque Terre" width="300" height="200">
+    <img src="/figures/Text-Co-Occurrence-For-Hunger-Games/network_graph_greater_than_three.png" alt="Cinque Terre" width="400" height="300">
   </a>
   <div class="desc">Add a description of the image here</div>
 </div>
 
 <div class="gallery">
   <a target="_blank" href="https://yanjiehe.github.io/data%20science/computer%20vision/2018/09/16/Landscape-Image-Clustering-Based-On-Color-Histogram">
-    <img src="/figures/Landscape-Image-Clustering-Based-On-Color-Histogram/cluster_centers_hist.png" alt="Forest" width="300" height="200">
+    <img src="/figures/Landscape-Image-Clustering-Based-On-Color-Histogram/cluster_centers_hist.png" alt="Forest" width="400" height="300">
   </a>
   <div class="desc">Add a description of the image here</div>
 </div>
 
 <div class="gallery">
   <a target="_blank" href="https://github.com/YanjieHe/Reversi">
-    <img src="figures/reversi.png" alt="Northern Lights" width="300" height="200">
+    <img src="figures/reversi.png" alt="Northern Lights" width="400" height="300">
   </a>
   <div class="desc">Add a description of the image here</div>
 </div>
 
 <div class="gallery">
   <a target="_blank" href="https://github.com/YanjieHe/Maze">
-    <img src="figures/maze.jpg" alt="Mountains" width="300" height="200">
+    <img src="figures/maze.jpg" alt="Mountains" width="400" height="300">
   </a>
   <div class="desc">Add a description of the image here</div>
 </div>
