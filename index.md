@@ -5,6 +5,29 @@ description: I am a graduate student at The George Washington University. I stud
 keywords: Computer Science, Statistics, Data Analytics, Engineering
 ---
 
+<style>
+div.gallery {
+    margin: 5px;
+    border: 1px solid #ccc;
+    float: left;
+    width: 180px;
+}
+
+div.gallery:hover {
+    border: 1px solid #777;
+}
+
+div.gallery img {
+    width: 100%;
+    height: auto;
+}
+
+div.desc {
+    padding: 15px;
+    text-align: center;
+}
+</style>
+
 <p align="left">
 Welcome to my website!
 </p>
@@ -31,6 +54,36 @@ For Professor Benjamin Harvey, this is my <a href="https://github.com/YanjieHe/Y
 
 Here are some of my projects. If you are interested in them, you may click the figures. For more projects, you may check out the <a href="https://yanjiehe.github.io/pages/projects.html">Projects</a> section.
 
+<div class="gallery">
+  <a target="_blank" href="https://yanjiehe.github.io/data%20science/social%20network%20analysis/natural%20language%20processing/2018/09/08/Text-Co-Occurrence-For-Hunger-Games">
+    <img src="/figures/Text-Co-Occurrence-For-Hunger-Games/network_graph_greater_than_three.png" alt="Cinque Terre" width="300" height="200">
+  </a>
+  <div class="desc">Add a description of the image here</div>
+</div>
+
+<div class="gallery">
+  <a target="_blank" href="https://yanjiehe.github.io/data%20science/computer%20vision/2018/09/16/Landscape-Image-Clustering-Based-On-Color-Histogram">
+    <img src="/figures/Landscape-Image-Clustering-Based-On-Color-Histogram/cluster_centers_hist.png" alt="Forest" width="300" height="200">
+  </a>
+  <div class="desc">Add a description of the image here</div>
+</div>
+
+<div class="gallery">
+  <a target="_blank" href="https://github.com/YanjieHe/Reversi">
+    <img src="figures/reversi.png" alt="Northern Lights" width="300" height="200">
+  </a>
+  <div class="desc">Add a description of the image here</div>
+</div>
+
+<div class="gallery">
+  <a target="_blank" href="https://github.com/YanjieHe/Maze">
+    <img src="figures/maze.jpg" alt="Mountains" width="300" height="200">
+  </a>
+  <div class="desc">Add a description of the image here</div>
+</div>
+
+
+<!--
 <table class="wide">
 <tr>
   <td class="left">
@@ -59,6 +112,7 @@ Here are some of my projects. If you are interested in them, you may click the f
 </tr>
 
 </table>
+-->
 
 <hr>
 
