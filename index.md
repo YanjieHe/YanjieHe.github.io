@@ -11,7 +11,7 @@ Welcome to my website!
 
 I am Yanjie He, a Data Scientist who is interested in computer science, statistics, and economics. Currently, I am studying at the Data Analytics program at the George Washington University.
 
-I love traveling. And I enjoy communicating with people from different cultures. My dream is to utilize big data to create a better world for everyone.
+I love traveling. And I enjoy communicating with people from different cultures. My dream is to utilize big data to create a better world for everyone. Click <a href="https://yanjiehe.github.io/pages/about.html">here</a> for more information about me.
 
 You can find me in these places:
 <ul>
@@ -59,21 +59,6 @@ Here are some of my projects. If you are interested in them, you may click the f
 </tr>
 
 </table>
-
-<!--
-<tr>
-  <td class="left">
-    <a href="https://bsharvey.github.io">
-        <img src="pages/publpics/bioinformatics2.png" alt="Broman et al. (2013) Fig 7" title="Broman et al. (2013) Fig 7" />
-    </a>
-  </td>
-  <td class="right">
-    <a href="https://bsharvey.github.io">
-        <img src="pages/publpics/nba2.png" alt="Tian et al. (2015) Fig 4" title="Tian et al. (2015) Fig 4" />
-    </a>
-  </td>
-</tr>
--->
 
 <hr>
 
