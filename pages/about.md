@@ -17,12 +17,8 @@ I love travel. And I enjoy commnuicating with people from different cultures.
 My dream is to utilize big data to create a better world for everyone.
 </p>
 
-<p align="left">
-You may find me in these places:
-<ul>
-  <li><a href="https://github.com/yanjiehe">GitHub</a></li>
-  <li><a href="https://www.kaggle.com/yanjiehe">Kaggle</a></li>
-  <li><a href="https://www.linkedin.com/in/yanjiehe/">LinkedIn</a></li>
-</ul>
+I have experience in both academic and industry. My first internship is in Kantar Media CIC, which is a company focusing on social media data analysis. That experience was super fun. I developed a text mining system with team members and designed a sentimental analysis solution. Also, I provided a data visualization solution, which is to plot a Venn graph automatically based on given data.
 
-This is my <a href="{{ BASE_PATH }}/assets/resume.pdf">resume</a>.
+After I came to the United States, I got an on-campus job in the George Washington University. I am working as a computational social scientist, and what I do in every week is to help Professor Pamphile with her research work. It is an excellent opportunity for me to apply my analytical skills to solve academic problems.
+
+I am a team member in Professor Benjamin Harvey's A.I. project. I am developing a recommender system with the joint effort of team members. From this experience, I learned the process of system development. There are still a lot learn, and it will be inspiring to me.
