@@ -24,7 +24,7 @@ implementation of the virtual machine taking JVM as a reference.
 
 I implemented the compiler and the disassembler in C++, and I completed a virtual machine in ANSI C.
 
-<h4> Matrix Library in C\# </h4>
+<h4> Matrix Library in C# </h4>
 I implemented this matrix library in C#, which can be used to do matrix computation and solve linear equations.
 
 The main algorithms in the matrix library are  as followings:
