@@ -5,16 +5,6 @@ description: I am a graduate student at The George Washington University. I stud
 keywords: Computer Science, Statistics, Data Analytics, Engineering
 ---
 
-<style>
-table, th, td {
-    border: 1px solid black;
-    border-collapse: collapse;
-}
-th, td {
-    padding: 15px;
-}
-</style>
-
 <p align="left">
 Welcome to my website!
 </p>
