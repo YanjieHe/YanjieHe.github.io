@@ -48,12 +48,12 @@ Here are some of my projects. If you are interested in them, you may click the f
 <tr>
   <td class="left">
     <a href="https://github.com/YanjieHe/Reversi">
-        <img src="figures/reversi.png" alt="Reversi" title="Reversi" />
+        <img src="figures/reversi.png" alt="Reversi" title="Reversi" style = "width:400px;height:300px;"/>
     </a>
   </td>
   <td class="right">
     <a href="https://github.com/YanjieHe/Maze">
-        <img src="figures/maze.jpg" alt="Maze" title="Maze" />
+        <img src="figures/maze.jpg" alt="Maze" title="Maze" style = "width:400px;height:300px;"/>
     </a>
   </td>
 </tr>
