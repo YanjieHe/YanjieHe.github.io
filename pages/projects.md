@@ -62,3 +62,8 @@ Completed a computer vision project.
 <li> Used C++ to extract color histogram as image features based on the OpenCV framework. </li>
 <li> Finally, run the K-Means model on Apache Spark using Scala to cluster the data. </li>
 </ul>
+
+<h4> <a href="https://github.com/YanjieHe/SnakeGame"> Snake Game </a> </h4>
+This is a snake game. The player needs to control the movement of the snake to eat the apple and avoid collisions.
+
+<img src="/figures/snake_game.png" alt="snake_game.png" title="snake game">
