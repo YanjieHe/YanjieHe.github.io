@@ -29,7 +29,7 @@ For Professor Benjamin Harvey, this is my <a href="https://github.com/YanjieHe/Y
 
 <br>
 
-Here are some of my projects. If you are interested in them, you may click the figures.
+Here are some of my projects. If you are interested in them, you may click the figures. For more projects, you may check the <a href="https://yanjiehe.github.io/pages/projects.html">Projects</a> section.
 
 <table class="wide">
 <tr>
