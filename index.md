@@ -44,6 +44,22 @@ Here are some of my projects. If you are interested in them, you may click the f
     </a>
   </td>
 </tr>
+
+<tr>
+  <td class="left">
+    <a href="https://github.com/YanjieHe/Reversi">
+        <img src="figures/reversi.png" alt="Reversi" title="Reversi" />
+    </a>
+  </td>
+  <td class="right">
+    <a href="https://github.com/YanjieHe/Maze">
+        <img src="figures/maze.jpg" alt="Maze" title="Maze" />
+    </a>
+  </td>
+</tr>
+
+</table>
+
 <!--
 <tr>
   <td class="left">
@@ -58,7 +74,6 @@ Here are some of my projects. If you are interested in them, you may click the f
   </td>
 </tr>
 -->
-</table>
 
 <hr>
 
