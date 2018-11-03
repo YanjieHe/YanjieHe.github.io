@@ -9,16 +9,10 @@ keywords: Computer Science, Statistics, Data Analytics, Engineering
 Welcome to my website!
 </p>
 
-<p align="left">
-I am Yanjie He, a Data Scientist who is interested in computer science, statistics, and economics.  Currently, I am studying at the Data Analytics program at the George Washington University.
-</p>
+I am Yanjie He, a Data Scientist who is interested in computer science, statistics, and economics. Currently, I am studying at the Data Analytics program at the George Washington University.
 
-<p align="left">
-I love traveling. And I enjoy communicating with people from different cultures.
-My dream is to utilize big data to create a better world for everyone.
-</p>
+I love traveling. And I enjoy communicating with people from different cultures. My dream is to utilize big data to create a better world for everyone.
 
-<p align="left">
 You can find me in these places:
 <ul>
   <li><a href="https://github.com/yanjiehe">GitHub</a></li>
@@ -28,10 +22,11 @@ You can find me in these places:
 
 This is my <a href="{{ BASE_PATH }}/assets/resume.pdf">resume</a>.
 
+<!--
 <br>
 For Professor Benjamin Harvey, this is my <a href="https://github.com/YanjieHe/YanjieHe.github.io/blob/master/Assignments/HW1.ipynb">assignment 1</a>.
+-->
 
-<br>
 <br>
 
 Here are some of my projects. If you are interested in them, you may click the figures.
