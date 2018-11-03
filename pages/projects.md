@@ -49,6 +49,11 @@ The UI of my reversi program is in the following figure.
 
 <img src="/figures/reversi.png" alt="reversi.png" title="reversi">
 
+<h4> Text Co-occurrence Network Analsis for The Hunger Games </h4>
+Completed a text analysis project where implemented text co-occurrence network to visualize the relationship between the main characters in the novel *The Hunger Games*. Written the program in Python and used packages including nltk, pandas, matplotlib and wordcloud.
+
+Plotted the network by using Gephi.
+
 <h4> Landscape Image Clustering based on Color Histogram </h4>
 Completed a computer vision project.
 
