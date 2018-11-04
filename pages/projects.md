@@ -49,12 +49,12 @@ The UI of my reversi program is in the following figure.
 
 <img src="/figures/reversi.png" alt="reversi.png" title="reversi">
 
-<h4> Text Co-occurrence Network Analsis for The Hunger Games </h4>
+<h4> <a href="https://yanjiehe.github.io/data%20science/social%20network%20analysis/natural%20language%20processing/2018/09/08/Text-Co-Occurrence-For-Hunger-Games"> Text Co-occurrence Network Analsis for The Hunger Games </a> </h4>
 Completed a text analysis project where implemented text co-occurrence network to visualize the relationship between the main characters in the novel *The Hunger Games*. Written the program in Python and used packages including nltk, pandas, matplotlib and wordcloud.
 
 Plotted the network by using Gephi.
 
-<h4> Landscape Image Clustering based on Color Histogram </h4>
+<h4> <a href="https://yanjiehe.github.io/data%20science/computer%20vision/2018/09/16/Landscape-Image-Clustering-Based-On-Color-Histogram"> Landscape Image Clustering based on Color Histogram </a> </h4>
 Completed a computer vision project.
 
 <ul>
