@@ -1,6 +1,8 @@
-## Yanji He&rsquo;s website
+## Yanji He's website
 
 ---
+
+This is my personal website. Here is the <a href="yanjiehe.github.io/">link</a>.
 
 My parts of this web site are licensed under
 [CC BY](http://creativecommons.org/licenses/by/3.0/).
