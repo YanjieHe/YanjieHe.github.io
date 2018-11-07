@@ -22,13 +22,6 @@ You can find me in these places:
 
 This is my <a href="{{ BASE_PATH }}/assets/resume.pdf">resume</a>.
 
-<!--
-<br>
-For Professor Benjamin Harvey, this is my <a href="https://github.com/YanjieHe/YanjieHe.github.io/blob/master/Assignments/HW1.ipynb">assignment 1</a>.
--->
-
-<br>
-
 Here are some of my projects. If you are interested in them, you may click the figures. For more projects, you may check out the <a href="https://yanjiehe.github.io/pages/projects.html">Projects</a> section.
 
 
