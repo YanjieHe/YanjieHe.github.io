@@ -4,8 +4,10 @@ title: projects
 description: Yanjie He is...
 ---
 
+<!--
 <h3> Welcome! </h3>
 I am very interested in Computer Science and Data Science. I enjoying doing projects to enhance my skills and engineering experience. Here are some selected projects.
+-->
 
 <h3> Compiler Design <h3>
 <h4> <a href="https://github.com/YanjieHe/CygniCompiler"> A Compiler and a Virtual Machine </a> </h4>
