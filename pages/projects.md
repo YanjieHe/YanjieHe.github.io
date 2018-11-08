@@ -8,6 +8,7 @@ description: Yanjie He is...
 I am very interested in Computer Science and Data Science. I enjoying doing projects to enhance my skills and engineering experience. Here are some selected projects.
 
 <h3> Compiler Design <h3>
+<hr>
 <h4> <a href="https://github.com/YanjieHe/CygniCompiler"> A Compiler and a Virtual Machine </a> </h4>
 The compiler project is my favorite project. I am very interested in Compiler Principles and Programming Language Design. This project contains a compiler for a statically typed language named Cygni, a bytecode disassembler and a virtual machine.
 
@@ -24,6 +25,7 @@ Besides, I designed a bytecode instruction list, which is similar to the JVM ins
 implementation of the virtual machine taking JVM as a reference.
 
 I implemented the compiler and the disassembler in C++, and I completed a virtual machine in ANSI C.
+<hr>
 
 <h3> Data Science <h3>
 <hr>
@@ -57,6 +59,7 @@ The main algorithms in the matrix library are  as followings:
 </ul>
 
 Since the numerical calculation packages on the .Net platform are very limited, some developers used this library as a lightweight choice.
+<hr>
 
 <h3> Game A.I. Design <h3>
 <hr>
@@ -74,3 +77,4 @@ This game usually is used as an initial project in the A.I. courses. I implement
 This is a snake game. The player needs to control the movement of the snake to eat the apple and avoid collisions.
 
 <img src="/figures/snake_game.png" alt="snake_game.png" title="snake game">
+<hr>
