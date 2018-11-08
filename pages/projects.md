@@ -8,7 +8,6 @@ description: Yanjie He is...
 I am very interested in Computer Science and Data Science. I enjoying doing projects to enhance my skills and engineering experience. Here are some selected projects.
 
 <h3> Compiler Design <h3>
-<hr>
 <h4> <a href="https://github.com/YanjieHe/CygniCompiler"> A Compiler and a Virtual Machine </a> </h4>
 The compiler project is my favorite project. I am very interested in Compiler Principles and Programming Language Design. This project contains a compiler for a statically typed language named Cygni, a bytecode disassembler and a virtual machine.
 
@@ -25,10 +24,8 @@ Besides, I designed a bytecode instruction list, which is similar to the JVM ins
 implementation of the virtual machine taking JVM as a reference.
 
 I implemented the compiler and the disassembler in C++, and I completed a virtual machine in ANSI C.
-<hr>
 
 <h3> Data Science <h3>
-<hr>
 <h4> <a href="https://yanjiehe.github.io/data%20science/social%20network%20analysis/natural%20language%20processing/2018/09/08/Text-Co-Occurrence-For-Hunger-Games"> Text Co-occurrence Network Analsis for The Hunger Games </a> </h4>
 Completed a text analysis project where implemented text co-occurrence network to visualize the relationship between the main characters in the novel *The Hunger Games*. Written the program in Python and used packages including nltk, pandas, matplotlib and wordcloud.
 
@@ -44,7 +41,6 @@ Completed a computer vision project.
 </ul>
 
 <h3> Numerical Computation <h3>
-<hr>
 <h4> <a href="https://github.com/YanjieHe/MatrixLibrary"> A Matrix Library in C# </a> </h4>
 I implemented this matrix library in C#, which can be used to do matrix computation and solve linear equations.
 
@@ -59,10 +55,8 @@ The main algorithms in the matrix library are  as followings:
 </ul>
 
 Since the numerical calculation packages on the .Net platform are very limited, some developers used this library as a lightweight choice.
-<hr>
 
 <h3> Game A.I. Design <h3>
-<hr>
 <h4> <a href="https://github.com/YanjieHe/Reversi"> Reversi </a> </h4>
 Reversi is a board game. It is much more complicated than the Tic Tac Toe. Due to the vast amount of possible state of the game, it is next to impossible to enumerate every situation. Therefore, I implemented the minimax with alpha-beta pruning. The difficulty is how to evaluate current game state. I choose a simple solution: to evaluate the game by the position of the chess pieces. There exist a lot of better solutions, and I am eager to learn more about artificial intelligence in the future. And hopefully, I will be able to enhance the performance of the A.I. of the Reversi by implementing better algorithms.
 
@@ -77,4 +71,3 @@ This game usually is used as an initial project in the A.I. courses. I implement
 This is a snake game. The player needs to control the movement of the snake to eat the apple and avoid collisions.
 
 <img src="/figures/snake_game.png" alt="snake_game.png" title="snake game">
-<hr>
