@@ -9,7 +9,7 @@ keywords: Computer Science, Statistics, Data Analytics, Engineering
 Welcome to my website!
 </p>
 
-I am Yanjie He, a Data Scientist who is interested in computer science, statistics, and economics. Currently, I am studying at the Data Analytics program at the George Washington University. Click <a href="https://yanjiehe.github.io/pages/about.html">here</a> for more information about me.
+I am Yanjie He, a Data Scientist who is interested in computer science, statistics, and economics. Currently, I am a graduate student studying Data Analytics at the George Washington University. Click <a href="https://yanjiehe.github.io/pages/about.html">here</a> for more information about me.
 
 You can find me in these places:
 <ul>
