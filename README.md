@@ -1,4 +1,4 @@
-## Yanji He's website
+## Yanjie He's website
 
 ---
 
