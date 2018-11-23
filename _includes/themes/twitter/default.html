@@ -28,11 +28,24 @@
     <link href="{{ BASE_PATH }}{{ site.JB.rss_path }}" type="application/rss+xml" rel="alternate" title="Sitewide RSS Feed">
   </head>
 
+  <style>
+  .brand {
+    float:left;
+    display:block;
+    padding:10px 20px 10px;
+    margin-left:-20px;
+    font-size:30px;
+    font-weight:200;
+    color:#222222;
+    /* color:#777777; */
+    text-shadow:0 1px 0 #ffffff;
+  }
+  </style>
 
   <body style="background-color:#f8f8fa";>
     <br>
     <div class="container-narrow">
-        <font size="+10"><a class="brand" href="{{ HOME_PATH }}">{{ site.title }}</a></font>
+        <a class="brand" href="{{ HOME_PATH }}">{{ site.title }}</a>
 
 <!--
       <div class="navbar navbar-default" align="left">
