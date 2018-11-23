@@ -9,8 +9,8 @@ description: Yanjie He is...
 <table>
 <tr> <td> <h4> <b> Machine Learning Researcher </b> </h4> </td> </tr>
 <tr> <td> The George Washington University - School of Engineering & Applied Science </td> </tr>
-<tr> <td> <font color="#acacac"> Oct 2018 - Present, 2 months </font> </td>
-<td> <font color="#acacac"> Washington D.C. Metro Area </font> </td> </tr>
+<tr> <td> <font color="#acacac"> Oct 2018 - Present, 2 months </font> </td> </tr>
+<tr> <td> <font color="#acacac"> Washington D.C. Metro Area </font> </td> </tr>
 </table>
 
 <ul>
@@ -23,8 +23,8 @@ description: Yanjie He is...
 <table>
 <tr> <td> <h4> <b> Computational Social Scientist </b> </h4> </td> </tr>
 <tr> <td> The George Washington University - School of Business </td> </tr>
-<tr> <td> <font color="#acacac"> Sep 2018 - Present, 3 months </font> </td>
-<td> <font color="#acacac"> Washington D.C. Metro Area </font> </td> </tr>
+<tr> <td> <font color="#acacac"> Sep 2018 - Present, 3 months </font> </td> </tr>
+<tr> <td> <font color="#acacac"> Washington D.C. Metro Area </font> </td> </tr>
 </table>
 
 <ul>
@@ -41,8 +41,8 @@ description: Yanjie He is...
 <table>
 <tr> <td> <h4> <b> Data Engineer Intern </b> </h4> </td> </tr>
 <tr> <td> Kantar Media CIC </td> </tr>
-<tr> <td> <font color="#acacac"> Jul 2016 - Feb 2017, 8 months </font> </td>
-<td> <font color="#acacac"> Shanghai, China </font> </td> </tr>
+<tr> <td> <font color="#acacac"> Jul 2016 - Feb 2017, 8 months </font> </td> </tr>
+<tr> <td> <font color="#acacac"> Shanghai, China </font> </td> </tr>
 </table>
 
 <ul>
