@@ -20,8 +20,6 @@ description: Yanjie He is...
 <li> <b>Software Development</b>: Developing the recommender system using C++, Java, and Python. Implemented machine learning algorithms to build robust models. </li>
 </ul>
 
-<hr>
-
 <table>
 <tr> <td> <h4> <b> Computational Social Scientist </b> </h4> </td> </tr>
 <tr> <td> The George Washington University - School of Business </td> </tr>
@@ -30,14 +28,14 @@ description: Yanjie He is...
 </table>
 
 <ul>
-</li> <ul> <b>Social Network Analysis and Data Analysis</b>:
-<li> Worked with Professor Vontrese Pamphile at the George Washington University School of Business. </li>
-<li> Helped manage ongoing research projects related to social network analysis. </li>
-<li> Applyed mathematical and statistical techniques to novel data. </li> </li>
+<li>
+    <ul> <b>Social Network Analysis and Data Analysis</b>:
+    <li> Worked with Professor Vontrese Pamphile at the George Washington University School of Business. </li>
+    <li> Helped manage ongoing research projects related to social network analysis. </li>
+    <li> Applyed mathematical and statistical techniques to novel data. </li>
+</li>
 <li> <b>Programming</b>: Reviewed academic papers and used Python and R to run the models. </li>
 </ul>
-
-<hr>
 
 <table>
 <tr> <td> <h4> <b> Data Engineer Intern </b> </h4> </td> </tr>
