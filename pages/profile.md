@@ -60,8 +60,7 @@ description: Yanjie He is...
 <li> Selected words as features that are important for classification by χ2 test.</li>
 <li> Applied the logistic regression to classify the sentiment of user comments.</li>
 </ul>
-
-<br>
+</ul>
 
 <h3> Education </h3>
 <table>
@@ -75,8 +74,6 @@ description: Yanjie He is...
 <tr> <td> Bachelor of Arts - BA, Economics, 3.71 </td> </tr>
 <tr> <td> 2013 - 2017 </td> </tr>
 </table>
-
-<br>
 
 <h3> Courses </h3>
 
