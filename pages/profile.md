@@ -8,11 +8,11 @@ description: Yanjie He is...
 
 <table>
 <tr>
-    <td> <h4> <b> Machine Learning Researcher </b> </h4> </td>
+    <td> <h5> <b> Machine Learning Researcher </b> </h5> </td>
     <td> Oct 2018 - Present, 2 months </td>
 </tr>
 <tr>
-    <td> <h4> The George Washington University - School of Engineering & Applied Science </h4> </td>
+    <td> The George Washington University - School of Engineering & Applied Science </td>
     <td> Washington D.C. Metro Area </td>
 </tr>
 </table>
