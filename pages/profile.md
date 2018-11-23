@@ -61,6 +61,8 @@ description: Yanjie He is...
 <li> Applied the logistic regression to classify the sentiment of user comments.</li>
 </ul>
 
+<br>
+
 <h3> Education </h3>
 <table>
 <tr> <td> <b> The George Washington University - School of Engineering & Applied Science </b> </td> </tr>
@@ -73,6 +75,8 @@ description: Yanjie He is...
 <tr> <td> Bachelor of Arts - BA, Economics, 3.71 </td> </tr>
 <tr> <td> 2013 - 2017 </td> </tr>
 </table>
+
+<br>
 
 <h3> Courses </h3>
 
