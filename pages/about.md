@@ -32,4 +32,4 @@ I am a team member in Professor Benjamin Harvey's A.I. project. I am developing 
 <li> <a href="/assets/46500.pdf"> Interdisciplinary Contest In Modeling, Honorable Mention, 2016 </a></li>
 </ul>
 
-For detailed information about me, you can take a look at <a href="{{ BASE_PATH }}/pages/projects.html">my profile</a>.
+For detailed information about me, you can take a look at <a href="{{ BASE_PATH }}/pages/profile.html">my profile</a>.
