@@ -60,3 +60,28 @@ description: Yanjie He is...
 <li> Selected words as features that are important for classification by χ2 test.</li>
 <li> Applied the logistic regression to classify the sentiment of user comments.</li>
 </ul>
+
+<h3> Education </h3>
+<table>
+<tr> <td> <b> The George Washington University - School of Engineering & Applied Science </b> </td> </tr>
+<tr> <td> Master of Science - MS, Data Analytics (Computer Science track) </td> </tr>
+<tr> <td> 2018 - 2020 </td> </tr>
+</table>
+
+<table>
+<tr> <td> <b> Shanghai University of International Business and Economics </b> </td> </tr>
+<tr> <td> Bachelor of Arts - BA, Economics, 3.71 </td> </tr>
+<tr> <td> 2013 - 2017 </td> </tr>
+</table>
+
+<h3> Courses </h3>
+
+<ul>
+<li> Application of Time Series Analysis </li>
+<li> Bayesian Statistics </li>
+<li> Data Analysis Foundation & Practicum </li>
+<li> Econometrics </li>
+<li> Econometrics </li>
+<li> Macroeconomics </li>
+<li> Macroeconomics </li>
+</ul>
