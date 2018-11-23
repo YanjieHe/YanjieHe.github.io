@@ -36,3 +36,28 @@ description: Yanjie He is...
 <li> Applyed mathematical and statistical techniques to novel data. </li> </li>
 <li> <b>Programming</b>: Reviewed academic papers and used Python and R to run the models. </li>
 </ul>
+
+<hr>
+
+<table>
+<tr> <td> <h4> <b> Data Engineer Intern </b> </h4> </td> </tr>
+<tr> <td> Kantar Media CIC </td> </tr>
+<tr> <td> <font color="#acacac"> Jul 2016 - Feb 2017, 8 months </font> </td> </tr>
+<tr> <td> <font color="#acacac"> Shanghai, China </font> </td> </tr>
+</table>
+
+<ul>
+<li> Data Collection: Designed data collection and data cleaning solution for Chanel APAC project. </li>
+<li> Data Visualization: Developed Data Visualization Solution for GroupM television show, which can generate Venn Graph according to given input numbers automatically. </li>
+<li> Text Mining System: Developed text mining system with team members. The system was used by more than 50 data analysts in the company to make data analysis solution for L’Oréal, Chanel, Volkswagen, and Dell. Saved more than 10,000 dollars of outsourcing cost. </li>
+<ul>
+<li> The system contains a rule parser and an evaluator, letting the data analysts define the patterns they want to match. </li>
+<li> The system can provide basic-level functions for sentiment analysis. </li>
+<li> The system processed millions of text data records every month. </li>
+</ul>
+<li> Sentiment Analysis: Improved the accuracy of sentiment analysis by 17% compared to the previous tool used in the company. </li>
+<ul>
+<li> Used jieba package in Python to cut the Chinese content into separated words.</li>
+<li> Selected words as features that are important for classification by χ2 test.</li>
+<li> Applied the logistic regression to classify the sentiment of user comments.</li>
+</ul>
