@@ -14,7 +14,7 @@ description: Yanjie He is...
 </table>
 
 <ul>
-<li> <b>Position</b>: Group Research Collaborator for Dr. Benjamin Harvey, faculty of the George Washington University. <li>
+<li> <b>Position</b>: Group Research Collaborator for Dr. Benjamin Harvey, faculty of the George Washington University. </li>
 <li> <b>Project Title</b> : A.I. and User Behavior for Robust Near Real-Time Recommendations. </li>
 <li> <b>Recommender System Design</b> : Designing the architecture of a recommender system which is an integration of user behavior analysis and Collaborative Topic Regression. </li>
 <li> <b>Software Development</b>: Developing the recommender system using C++, Java, and Python. Implemented machine learning algorithms to build robust models. </li>
