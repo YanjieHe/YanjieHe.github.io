@@ -33,6 +33,7 @@ description: Yanjie He is...
     <li> Worked with Professor Vontrese Pamphile at the George Washington University School of Business. </li>
     <li> Helped manage ongoing research projects related to social network analysis. </li>
     <li> Applyed mathematical and statistical techniques to novel data. </li>
+    </ul>
 </li>
 <li> <b>Programming</b>: Reviewed academic papers and used Python and R to run the models. </li>
 </ul>
