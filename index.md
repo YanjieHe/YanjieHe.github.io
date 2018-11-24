@@ -20,13 +20,15 @@ You can find me in these places:
 
 This is my <a href="{{ BASE_PATH }}/assets/resume.pdf">resume</a>.
 
-Here are some of my projects. If you are interested in them, you may click the figures. For more projects, you may check out the <a href="https://yanjiehe.github.io/pages/projects.html">Projects</a> section.
+Here are some of my projects. If you are interested in them, you may click the figures. For more projects, you may check out the <a href="{{ BASE_PATH }}/pages/projects.html">Projects</a> section.
+
+For detailed information about me, you can take a look at <a href="{{ BASE_PATH }}/pages/profile.html">my profile</a>.
 
 
 <table class="wide">
 <tr>
   <td class="left">
-    <a href="https://yanjiehe.github.io/data%20science/social%20network%20analysis/natural%20language%20processing/2018/09/08/Text-Co-Occurrence-For-Hunger-Games">
+    <a href="{{ BASE_PATH }}/_posts/2018-09-08-Text-Co-Occurrence-For-Hunger-Games.md">
         <img src="/figures/Text-Co-Occurrence-For-Hunger-Games/network_graph_greater_than_three.png" alt="Text Co-occurrence Network" title="Text Co-occurrence Network" style = "width:400px;height:300px;">
     </a>
   </td>
