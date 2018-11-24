@@ -77,15 +77,25 @@ description: Yanjie He is...
 
 <h3> Courses </h3>
 
+<h4> Economics </h4>
 <ul>
-<li> Application of Time Series Analysis </li>
-<li> Bayesian Statistics </li>
-<li> Data Analysis Foundation & Practicum </li>
-<li> Econometrics </li>
-<li> Econometrics </li>
-<li> Macroeconomics </li>
-<li> Macroeconomics </li>
+    <li> Microeconomics </li>
+    <li> Macroeconomics </li>
+    <li> Econometrics </li>
 </ul>
+
+<h4> Statistics </h4>
+<ul>
+    <li> Statistics </li>
+    <li> Bayesian Statistics </li>
+    <li> Application of Time Series Analysis </li>
+</ul>
+
+<h4> Data Science </h4>
+<ul>
+    <li> Data Analysis Foundation & Practicum </li>
+</ul>
+
 
 <h3> Accomplishments and Awards </h3>
 
