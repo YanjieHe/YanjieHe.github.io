@@ -104,3 +104,29 @@ description: Yanjie He is...
 <li> <a href="/assets/46500.pdf"> Interdisciplinary Contest In Modeling, Honorable Mention, 2016 </a></li>
 </ul>
 
+<h3> Certifications </h3>
+<h4> Online Courses </h4>
+
+<h5> Machine Learning </h5>
+<ul>
+    <li> Machine Learning & AI Foundations: Recommendations </li>
+    <li> Building a Recommendation System with Python Machine Learning & AI </li>
+</ul>
+
+<h5> Computer Engineering </h5>
+<ul>
+    <li> Spring: Spring MVC </li>
+    <li> Learning React.js </li>
+</ul>
+
+<h5> Data Science </h5>
+<ul>
+    <li> Data Wrangling in R </li>
+</ul>
+
+<h5> Blockchain </h5>
+<ul>
+    <li> Blockchain Basics </li>
+    <li> Blockchain: Beyond the Basics </li>
+    <li> Blockchain: Learning Solidity </li>
+</ul>
