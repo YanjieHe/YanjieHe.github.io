@@ -86,3 +86,11 @@ description: Yanjie He is...
 <li> Macroeconomics </li>
 <li> Macroeconomics </li>
 </ul>
+
+<h3> Accomplishments and Awards </h3>
+
+<ul>
+<li> <a href="/assets/70969.pdf"> Interdisciplinary Contest In Modeling, Honorable Mention, 2017 </a></li>
+<li> <a href="/assets/46500.pdf"> Interdisciplinary Contest In Modeling, Honorable Mention, 2016 </a></li>
+</ul>
+
