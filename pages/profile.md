@@ -113,7 +113,7 @@ description: Yanjie He is...
     <li> Building a Recommendation System with Python Machine Learning & AI </li>
 </ul>
 
-<h5> Computer Engineering </h5>
+<h5> Web Development </h5>
 <ul>
     <li> Spring: Spring MVC </li>
     <li> Learning React.js </li>
