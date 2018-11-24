@@ -6,7 +6,7 @@ description: Yanjie He is...
 
 Welcome to my website!
 
-I am Yanjie He, a Data Scientist who is interested in computer science, statistics and economics. Currently, I am studying at the Data Analytics program in the George Washington University.
+I am Yanjie He, a Data Scientist who is interested in computer science, statistics, and economics. Currently, I am studying at the Data Analytics program at the George Washington University.
 
 I have experience in both academic and industry. My first internship is in Kantar Media CIC, which is a company focusing on social media data analysis. That experience was super fun. I developed a text mining system with team members and designed a sentimental analysis solution. Also, I provided a data visualization solution, which is to plot a Venn graph automatically based on given data.
 
