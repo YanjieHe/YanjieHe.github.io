@@ -4,20 +4,10 @@ title: about
 description: Yanjie He is...
 ---
 
-<p align="left">
 Welcome to my website!
-</p>
 
-<p align="left">
-I am Yanjie He, a Data Scientist who is interested in computer science, statistics and economics.  Currently, I am studying at the Data Analytics program in the George Washington University.
-</p>
+I am Yanjie He, a Data Scientist who is interested in computer science, statistics and economics. Currently, I am studying at the Data Analytics program in the George Washington University.
 
-<p align="left">
-I love travel. And I enjoy commnuicating with people from different cultures.
-My dream is to utilize big data to create a better world for everyone.
-</p>
-
-<p align="left">
 I have experience in both academic and industry. My first internship is in Kantar Media CIC, which is a company focusing on social media data analysis. That experience was super fun. I developed a text mining system with team members and designed a sentimental analysis solution. Also, I provided a data visualization solution, which is to plot a Venn graph automatically based on given data.
 
 After I came to the United States, I got an on-campus job in the George Washington University. I am working as a computational social scientist, and what I do in every week is to help Professor Pamphile with her research work. It is an excellent opportunity for me to apply my analytical skills to solve academic problems.
@@ -25,4 +15,3 @@ After I came to the United States, I got an on-campus job in the George Washingt
 I am a team member in Professor Benjamin Harvey's A.I. project. I am developing a recommender system with the joint effort of team members. From this experience, I learned the process of system development. There are still a lot learn, and it will be inspiring to me.
 
 For detailed information about me, you can take a look at <a href="{{ BASE_PATH }}/pages/profile.html">my profile</a>.
-</p>
