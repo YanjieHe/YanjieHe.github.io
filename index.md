@@ -28,7 +28,7 @@ For detailed information about me, you can take a look at <a href="{{ BASE_PATH 
 <table class="wide">
 <tr>
   <td class="left">
-    <a href="_posts/2018-09-08-Text-Co-Occurrence-For-Hunger-Games.html">
+    <a href="https://yanjiehe.github.io/data%20science/social%20network%20analysis/natural%20language%20processing/2018/09/08/Text-Co-Occurrence-For-Hunger-Games">
         <img src="/figures/Text-Co-Occurrence-For-Hunger-Games/network_graph_greater_than_three.png" alt="Text Co-occurrence Network" title="Text Co-occurrence Network" style = "width:400px;height:300px;">
     </a>
   </td>
