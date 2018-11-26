@@ -100,7 +100,7 @@ description: Yanjie He is...
 <h3> Accomplishments and Awards </h3>
 
 <ul>
-<li> <a href="/assets/7honors_and_awards/0969.pdf"> Interdisciplinary Contest In Modeling, Honorable Mention, 2017 </a></li>
+<li> <a href="/assets/honors_and_awards/70969.pdf"> Interdisciplinary Contest In Modeling, Honorable Mention, 2017 </a></li>
 <li> <a href="/assets/honors_and_awards/46500.pdf"> Interdisciplinary Contest In Modeling, Honorable Mention, 2016 </a></li>
 </ul>
 
