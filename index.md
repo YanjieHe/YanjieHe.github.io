@@ -14,7 +14,6 @@ I am Yanjie He, a Data Scientist who is interested in computer science, statisti
 You can find me in these places:
 <ul>
   <li><a href="https://github.com/yanjiehe">GitHub</a></li>
-  <li><a href="https://www.kaggle.com/yanjiehe">Kaggle</a></li>
   <li><a href="https://www.linkedin.com/in/yanjiehe/">LinkedIn</a></li>
 </ul>
 
