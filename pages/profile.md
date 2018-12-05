@@ -39,7 +39,7 @@ description: Yanjie He is...
 </ul>
 
 <table>
-<tr> <td> <h4> <b> Data Engineer Intern </b> </h4> </td> </tr>
+<tr> <td> <h4> <b> Software Engineer Intern </b> </h4> </td> </tr>
 <tr> <td> Kantar Media CIC </td> </tr>
 <tr> <td> <font color="gray"> Jul 2016 - Feb 2017, 8 months </font> </td> </tr>
 <tr> <td> <font color="gray"> Shanghai, China </font> </td> </tr>
