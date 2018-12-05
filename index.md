@@ -17,7 +17,7 @@ You can find me in these places:
   <li><a href="https://www.linkedin.com/in/yanjiehe/">LinkedIn</a></li>
 </ul>
 
-This is my <a href="{{ BASE_PATH }}/assets/resume.pdf">resume</a>.
+This is my <a href="{{ BASE_PATH }}/assets/resume/resume.pdf">resume</a>.
 
 Here are some of my projects. If you are interested in them, you may click the figures. For more projects, you may check out the <a href="{{ BASE_PATH }}/pages/projects.html">Projects</a> section.
 
