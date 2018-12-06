@@ -23,6 +23,7 @@ Here are some of my projects. If you are interested in them, you may click the f
 
 For detailed information about me, you can take a look at <a href="{{ BASE_PATH }}/pages/profile.html">my profile</a>.
 
+Here is the link for my final project <a href="{{ BASE_PATH }}/assets/final_project_presentation.pdf">presentation</a>.
 
 <table class="wide">
 <tr>
