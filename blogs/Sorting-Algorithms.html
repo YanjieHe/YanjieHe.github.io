@@ -45,7 +45,7 @@
          Sorting Algorithms Animation using D3.js
 		</h2>
 		<hr class="my-4">
-		<div id="viz"></div>
+		<div id="bubble-sort"></div>
 <script src="https://d3js.org/d3.v4.min.js"></script>
 <script src="https://unpkg.com/jeezy@1.12.0/lib/jeezy.min.js"></script>
 <script src="https://unpkg.com/d3-marcon@2.0.2/build/d3-marcon.min.js"></script>
@@ -81,7 +81,7 @@ function *bubbleSort(arr)
 
 var generator = bubbleSort(myData)
 
-var svg = d3.select('#viz').append('svg')
+var svg = d3.select('#bubble-sort').append('svg')
 	.attr('width', width)
 	.attr('height', height);
 
