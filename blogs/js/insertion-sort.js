@@ -1,4 +1,4 @@
-function selectionSortAnimation(numOfData, interval) {
+function insertionSortAnimation(numOfData, interval) {
 	var column_names = []
 	var myData = []
 
@@ -10,26 +10,27 @@ function selectionSortAnimation(numOfData, interval) {
 		myData.push(Math.floor(Math.random() * 10 + 1))
 	}
 
-	function* selectionSort(arr) {
-		arr = arr.slice()
-		var n = arr.length
+    function *insertionSort(arr)
+    { 
+        var n = arr.length; 
+        for (var i=1; i<n; i++) 
+        { 
+            var key = arr[i]; 
+            var j = i-1;
+            while (j>=0 && arr[j] > key)
+            { 
+                arr[j+1] = arr[j];
+				yield [arr, j, j+1]
+                j = j-1; 
+            } 
+            arr[j+1] = key;
+			yield [arr, j, j+1]
+        }
+    }
 
-		for (var i = 0; i < n - 1; i++) {
-			var min_idx = i;
-			for (var j = i + 1; j < n; j++)
-				if (arr[j] < arr[min_idx])
-					min_idx = j;
+	var generator = insertionSort(myData)
 
-			var temp = arr[min_idx];
-			arr[min_idx] = arr[i];
-			arr[i] = temp;
-			yield [arr, i, min_idx]
-		}
-	}
-
-	var generator = selectionSort(myData)
-
-	var svg = d3.select('#selection-sort').append('svg')
+	var svg = d3.select('#insertion-sort').append('svg')
 		.attr('width', width)
 		.attr('height', height);
 
@@ -122,7 +123,7 @@ function selectionSortAnimation(numOfData, interval) {
 			for (var k = 0; k < numOfData; k++) {
 				myData.push(Math.floor(Math.random() * 10 + 1))
 			}
-			generator = selectionSort(myData)
+			generator = insertionSort(myData)
 		} else {
 			myData = result[0]
 			column_i = result[1]
@@ -136,4 +137,4 @@ function selectionSortAnimation(numOfData, interval) {
 		
 	}
 }
-selectionSortAnimation(50, 400)
+insertionSortAnimation(50, 200)
