@@ -81,17 +81,6 @@ function *bubbleSort(arr)
 
 var generator = bubbleSort(myData)
 
-/*
-var setup = d3.marcon()
-    .top(20)
-    .bottom(20)
-    .left(10)
-    .right(10)
-    .width(window.innerWidth)
-    .height(window.innerHeight);
-
-setup.render();
-*/
 var svg = d3.select('#viz').append('svg')
 	.attr('width', width)
 	.attr('height', height);
@@ -118,7 +107,7 @@ var color = d3.scaleLinear()
     .range(['#B58929', '#C61C6F',
             '#268BD2', '#85992C'])
 
-redraw(random_data());
+redraw(new_data());
 
 d3.interval(function () {
     redraw(random_data());
@@ -163,7 +152,7 @@ function redraw(data) {
 }
 
 
-function random_data() {
+function new_data() {
 	myData = generator.next().value
 	if (generator.done || typeof myData === "undefined") {
 		myData = [];
