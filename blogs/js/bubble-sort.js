@@ -1,4 +1,5 @@
-function bubbleSortAnimation(numOfData, interval) {
+
+function sortingAnimation(numOfData, interval, tag, sortingAlgorithm) {
 	var column_names = []
 	var myData = []
 
@@ -10,24 +11,11 @@ function bubbleSortAnimation(numOfData, interval) {
 		myData.push(Math.floor(Math.random() * 10 + 1))
 	}
 
-	function* bubbleSort(arr) {
-		arr = arr.slice()
-		var n = arr.length;
-		for (var i = 0; i < n - 1; i++) {
-			for (var j = 0; j < n - i - 1; j++) {
-				if (arr[j] > arr[j + 1]) {
-					var temp = arr[j];
-					arr[j] = arr[j + 1];
-					arr[j + 1] = temp;
-					yield [arr, j, j + 1]
-				}
-			}
-		}
-	}
 
-	var generator = bubbleSort(myData)
 
-	var svg = d3.select('#bubble-sort').append('svg')
+	var generator = sortingAlgorithm(myData)
+
+	var svg = d3.select(tag).append('svg')
 		.attr('width', width)
 		.attr('height', height);
 
@@ -120,7 +108,7 @@ function bubbleSortAnimation(numOfData, interval) {
 			for (var k = 0; k < numOfData; k++) {
 				myData.push(Math.floor(Math.random() * 10 + 1))
 			}
-			generator = bubbleSort(myData)
+			generator = sortingAlgorithm(myData)
 		} else {
 			myData = result[0]
 			column_i = result[1]
@@ -134,4 +122,18 @@ function bubbleSortAnimation(numOfData, interval) {
 		
 	}
 }
-bubbleSortAnimation(50, 200)
+function* bubbleSort(arr) {
+	arr = arr.slice()
+	var n = arr.length;
+	for (var i = 0; i < n - 1; i++) {
+		for (var j = 0; j < n - i - 1; j++) {
+			if (arr[j] > arr[j + 1]) {
+				var temp = arr[j];
+				arr[j] = arr[j + 1];
+				arr[j + 1] = temp;
+				yield [arr, j, j + 1]
+			}
+		}
+	}
+}
+sortingAnimation(50, 200, '#bubble-sort', bubbleSort)
