@@ -1,118 +1,124 @@
 <!doctype html>
-
 <html lang="en">
-
-<head>
-    <meta charset="utf-8">
-
-    <title>Yanjie He's Portfolio</title>
-
-    <meta name="description" content="The HTML5 Herald">
-    <meta name="author" content="SitePoint">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
-
-    <link href="css/bootstrap.min.css" rel="stylesheet">
-    <script type="text/javascript" src="js/bootstrap.js"></script>
-</head>
-
-<body>
-    <nav class="navbar navbar-expand-lg navbar-dark bg-primary">
-        <a class="navbar-brand" href="index.html">何燕杰 (Yanjie He)</a>
-        <ul class="nav nav-pills">
+   <head>
+      <meta charset="utf-8">
+      <title>Yanjie He's Portfolio</title>
+      <meta name="description" content="The HTML5 Herald">
+      <meta name="author" content="SitePoint">
+      <meta name="viewport" content="width=device-width, initial-scale=1.0">
+      <link href="css/bootstrap.min.css" rel="stylesheet">
+      <link href="css/portfolio.css" rel="stylesheet">
+      <script type="text/javascript" src="js/bootstrap.js"></script>
+   </head>
+   <body>
+      <nav class="navbar navbar-expand-lg navbar-dark bg-primary">
+         <a class="navbar-brand" href="index.html">何燕杰 (Yanjie He)</a>
+         <ul class="nav nav-pills">
             <li class="nav-item">
-                <a class="nav-link active" href="index.html">Home</a>
+               <a class="nav-link active" href="index.html">Home</a>
             </li>
             <li class="nav-item">
-                <a class="nav-link" href="pages/projects.html">Projects</a>
+               <a class="nav-link" href="pages/projects.html">Projects</a>
             </li>
             <li class="nav-item">
-                <a class="nav-link" href="pages/blogs.html">Blog</a>
+               <a class="nav-link" href="pages/blogs.html">Blog</a>
             </li>
             <li class="nav-item">
-                <a class="nav-link" href="pages/about.html">About</a>
+               <a class="nav-link" href="pages/about.html">About</a>
             </li>
-        </ul>
-    </nav>
-    <br>
-    <div class="container">
-        <h2>
-         Portfolio
-         <small class="text-muted">A collection of my awesome projects.</small>
-      </h2>
-        <br>
-        <section>
+         </ul>
+      </nav>
+      <br>
+      <div class="container">
+         <h2>
+            Portfolio
+            <small class="text-muted">A collection of my awesome projects.</small>
+         </h2>
+         <br>
+         <section>
             <div class="row" style="-webkit-column-gap: 40px; /* Chrome, Safari, Opera */
-            -moz-column-gap: 40px; /* Firefox */
-            column-gap: 40px;">
-				<div class="card mb-3" style="max-width: 20rem;">
-                    <a href="https://yanjiehe.github.io/movie-recommender-system-web-app/">
-                        <img src="figures/movie_recommender_system.png" width="300" height="187" alt="Movie Recommender System"></a>
-                    <div class="card-body">
-                        <h4 class="card-title">A Content-based Movie Recommender System</h4>
-                        <p class="card-text">I built a content-based movie recommender system, utilizing content including image and audio features extracted from movie trailers, and the movie network centrality.</p>
-                    </div>
-                    <div class="card-footer text-muted">
-						Python, React.js, Recommender System, Computer Vision, Audio Processing, Social Network Analysis
-                    </div>
-                </div>
-                <div class="card mb-3" style="max-width: 20rem;">
-                    <a href="blogs/Text-Co-occurrence-Network.html">
-                        <img src="figures/network_graph_greater_than_three.png" width="300" height="300" alt="Text Co-occurrence Network"> </a>
-                    <div class="card-body">
-                        <h4 class="card-title">Text Co-occurrence Network</h4>
-                        <p class="card-text">Explored characters' relationship in <em>The Hunger Games</em> from a data science perspective.</p>
-                    </div>
-                    <div class="card-footer text-muted">
-                        Python, Natural Language Processing, Social Network Analysis
-                    </div>
-                </div>
-				<div class="card mb-3" style="max-width: 20rem;">
-                    <a href="blogs/Sorting-Algorithms.html">
-                        <img src="figures/sorting.png" width="300" height="208"></a>
-                    <div class="card-body">
-                        <h4 class="card-title">Sorting Algorithms Visualization</h4>
-                        <p class="card-text">Visualize the procedure of sorting algorithms with D3.js.</p>
-                    </div>
-                    <div class="card-footer text-muted">
-                        Algorithms, D3.js, HTML, CSS, JavaScript
-                    </div>
-                </div>
+               -moz-column-gap: 40px; /* Firefox */
+               column-gap: 40px;">
+               <div class="card mb-3" style="max-width: 20rem;">
+                  <h5 class="card-header">A Content-based Movie Recommender System</h5>
+                  <center>
+                     <a href="https://yanjiehe.github.io/movie-recommender-system-web-app/">
+                     <img src="figures/movie_recommender_system.png" width="300" height="187" alt="Movie Recommender System"></a>
+                  </center>
+                  <div class="card-body">
+                     <p class="card-text">Extracted image and audio features from movie trailers. Applied network analysis.</p>
+                  </div>
+                  <div class="card-footer text-muted">
+                     <small>Python, React.js, Recommender System, Computer Vision, Audio Processing, Social Network Analysis</small>
+                  </div>
+               </div>
+               <div class="card mb-3" style="max-width: 20rem;">
+                  <h5 class="card-header">Text Co-occurrence Network</h5>
+                  <center>
+                     <a href="blogs/Text-Co-occurrence-Network.html">
+                     <img src="figures/network_graph_greater_than_three.png" width="200" height="200" alt="Text Co-occurrence Network"> </a>
+                  </center>
+                  <div class="card-body">
+                     <p class="card-text">Explored characters' relations in <em>The Hunger Games</em> from a data science perspective.</p>
+                  </div>
+                  <div class="card-footer text-muted">
+                     <small>Python, Natural Language Processing, Social Network Analysis</small>
+                  </div>
+               </div>
+               <div class="card mb-3" style="max-width: 20rem;">
+                  <h5 class="card-header">Sorting Algorithms Visualization</h5>
+                  <center>
+                     <a href="blogs/Sorting-Algorithms.html">
+                     <img src="figures/sorting.png" width="300" height="208"></a>
+                  </center>
+                  <div class="card-body">
+                     <p class="card-text">Visualized the procedure of sorting algorithms with D3.js.</p>
+                  </div>
+                  <div class="card-footer text-muted">
+                     <small>Algorithms, D3.js, HTML, CSS, JavaScript</small>
+                  </div>
+               </div>
             </div>
-			<div class="row" style="-webkit-column-gap: 40px; /* Chrome, Safari, Opera */
-            -moz-column-gap: 40px; /* Firefox */
-            column-gap: 40px;">
-				<div class="card mb-3" style="max-width: 20rem;">
-                    <a href="blogs/Landscape-Image-Clustering.html">
-                        <img src="figures/cluster_centers_hist.png" width="300" height="225" alt="Color Histogram"></a>
-                    <div class="card-body">
-                        <h4 class="card-title">Landscape Image Clustering</h4>
-                        <p class="card-text">Clustered 8,892 landscape photos from mob.org.</p>
-                    </div>
-                    <div class="card-footer text-muted">
-                        Python, OpenCV, Computer Vision, Spark, K-Mean
-                    </div>
-                </div>
-				<div class="card mb-3" style="max-width: 20rem;">
-                    <a href="https://github.com/YanjieHe/Reversi">
-                        <img src="figures/reversi.png" width="300" height="305"></a>
-                    <div class="card-body">
-                        <h4 class="card-title">Reversi Board Game</h4>
-                        <p class="card-text">Designed an A.I. for a board game.</p>
-                    </div>
-                    <div class="card-footer text-muted">
-                        Game A.I., Minimax, Alpha–beta pruning
-                    </div>
-                </div>
-			</div>
-        </section>
-        <hr class="my-4">
-        <ul class="list-unstyled">
-            <li style="display:inline;"><a href="https://github.com/yanjiehe">GitHub</a></li> |
-            <li style="display:inline;"><a href="https://www.linkedin.com/in/yanjiehe/">LinkedIn</a></li> | 
+            <div class="row" style="-webkit-column-gap: 40px; /* Chrome, Safari, Opera */
+               -moz-column-gap: 40px; /* Firefox */
+               column-gap: 40px;">
+               <div class="card mb-3" style="max-width: 20rem;">
+                  <h5 class="card-header">Landscape Image Clustering</h5>
+                  <center>
+                     <a href="blogs/Landscape-Image-Clustering.html">
+                     <img src="figures/cluster_centers_hist.png" width="300" height="225" alt="Color Histogram"></a>
+                  </center>
+                  <div class="card-body">
+                     <p class="card-text">Clustered 8,892 landscape photos from mob.org.</p>
+                  </div>
+                  <div class="card-footer text-muted">
+                     <small>Python, OpenCV, Computer Vision, Spark, K-Mean</small>
+                  </div>
+               </div>
+               <div class="card mb-3" style="max-width: 20rem;">
+                  <h5 class="card-header">Reversi Board Game</h5>
+                  <center>
+                     <a href="https://github.com/YanjieHe/Reversi">
+                     <img src="figures/reversi.png" width="300" height="305"></a>
+                  </center>
+                  <div class="card-body">
+                     <p class="card-text">Designed an A.I. for a board game.</p>
+                  </div>
+                  <div class="card-footer text-muted">
+                     <small>Game A.I., Minimax, Alpha–beta pruning</small>
+                  </div>
+               </div>
+            </div>
+         </section>
+         <hr class="my-4">
+         <ul class="list-unstyled">
+            <li style="display:inline;"><a href="https://github.com/yanjiehe">GitHub</a></li>
+            |
+            <li style="display:inline;"><a href="https://www.linkedin.com/in/yanjiehe/">LinkedIn</a></li>
+            | 
             <li style="display:inline;"><a href="assets/resume.pdf">resume</a></li>
-        </ul>
-        <p>Copyright @ 2018 Yanjie He</p>
-    </div>
-</body>
-
+         </ul>
+         <p>Copyright @ 2018 Yanjie He</p>
+      </div>
+   </body>
 </html>
