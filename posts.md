@@ -6,11 +6,11 @@ permalink: /posts/
 
 <div class="home">
   {%- if page.title -%}
-    <h1 class="page-heading">{{ page.title }}</h1>
+    <h2 class="post-list-heading">{{ page.title }}</h2>
   {%- endif -%}
   
   {%- if site.posts.size > 0 -%}
-    <h2 class="post-list-heading">{{ page.list_title | default: "Posts" }}</h2>
+    <!-- <h2 class="post-list-heading">{{ page.list_title | default: "Posts" }}</h2> -->
     <ul class="post-list">
       {%- for post in site.posts -%}
       <li>
