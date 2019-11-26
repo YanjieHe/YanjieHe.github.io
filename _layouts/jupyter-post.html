@@ -15,8 +15,8 @@ layout: default
       {%- endif -%}</p>
   </header>
 
-  <div>
-    {{ content }}
+  <div class="post-content e-content" itemprop="articleBody">
+    
   </div>
 
   {%- if site.disqus.shortname -%}
@@ -25,3 +25,4 @@ layout: default
 
   <a class="u-url" href="{{ page.url | relative_url }}" hidden></a>
 </article>
+{{ content }}
