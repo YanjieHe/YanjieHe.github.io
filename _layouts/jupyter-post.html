@@ -35,9 +35,13 @@
       </div>
     </main>
 
-    {%- include footer.html -%}
 
   </body>
 
+  {{ content }}
+  
+  <body>
+	{%- include footer.html -%}
+  </body>
+
 </html>
-{{ content }}
